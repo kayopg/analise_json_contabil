@@ -57,9 +57,8 @@ INPUT_FILES: list[str] = [
 # Deixe vazias para considerar TODOS os eventos daquele tipo.
 EXCLUDE_PROVENTO_EVENTS: list[str] = [
     "222", "224", "238", "312", "591", "965", "980", "1030", "1040", "1050",
-    "1120", "1545", "2002", "2003", "2005", "2007", "2010", "2011", "2012", "2013",
-    "2014", "2017", "2022", "2027", "2028", "2034", "2035", "2036", "2037", "2230",
-    "2270", "3000", "4440", "21690"
+    "1120", "2002", "2005", "2007", "2010", "2011", "2022", "2027", "2035", "2036",
+    "2037", "2230", "2270", "3000", "4440", "21690"
 ]  # Exclui estes PROVENTOS da geração do CSV
 EXCLUDE_DESCONTO_EVENTS: list[str] = ["149", "7340", "7505", "8080", "8920"]  # Exclui estes DESCONTOS da geração do CSV
 

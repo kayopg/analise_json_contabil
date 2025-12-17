@@ -1,13 +1,13 @@
 # Gerar CSV agrupado do arquivo 1802002.txt
 
-Este repositório inclui o script `scripts/gerar_csv_1802002.py`, que lê o arquivo `1802002.txt` (formato “dump” textual) e:
+Este repositório inclui o script `scripts/gerar_csv.py`, que lê os arquivos de `arquivos_leitura` (incluindo `1802002.txt`) e:
 
 - identifica funcionários pelos campos `matricula`, `nome` e `cpf`
 - percorre os eventos de cada funcionário (detectados por `numeroEvento`, `valor` e `tipoEvento`)
 - acumula o total por `matricula` com a regra:
   - `tipoEvento == "PROVENTO"` → soma `valor`
   - `tipoEvento == "DESCONTO"` → subtrai `valor`
-- grava `1802002_agrupado.csv` **ordenado por matrícula**
+- grava os CSVs `detalhe_unificado.csv` e `valores_agrupados_por_matricula.csv`
 
 ## Requisitos
 
@@ -15,7 +15,8 @@ Este repositório inclui o script `scripts/gerar_csv_1802002.py`, que lê o arqu
 
 ## Como executar
 
-Na raiz do repo:
+Na raiz do projeto:
 
 ```powershell
-python .\scripts\gerar_csv_1802002.py
+python .\scripts\gerar_csv.py
+```
