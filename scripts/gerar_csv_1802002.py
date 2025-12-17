@@ -43,8 +43,15 @@ def parse_decimal(s: str) -> Optional[Decimal]:
         return None
 
 
+# Pasta padrão de leitura (relativa ao root do projeto)
+INPUT_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "arquivos_leitura"))
+
 # Lista de arquivos de entrada (pode ser configurada pelo usuário)
-INPUT_FILES: list[str] = ["1802002.txt"]  # Ex.: ["1802002.txt", "11802004.txt", "11802005.txt"]
+INPUT_FILES: list[str] = [
+    "1802002.txt",
+    "11802004.txt",
+    "11802005.txt",
+]  # Serão buscados dentro de INPUT_DIR quando caminho não for absoluto
 
 # Listas de eventos a DESCONSIDERAR/EXCLUIR (numeroEvento)
 # Deixe vazias para considerar TODOS os eventos daquele tipo.
@@ -218,9 +225,22 @@ def main(argv: list[str]) -> int:
             return 1
         return 99
 
+    # Resolve caminhos relativos para dentro de INPUT_DIR
+    def _resolve_inputs(files: list[str]) -> list[str]:
+        result: list[str] = []
+        for p in files:
+            if os.path.isabs(p):
+                result.append(p)
+            else:
+                result.append(os.path.join(INPUT_DIR, p))
+        return result
+
     # Unifica detalhes de todos os arquivos e acumula agregados para saída única
     unified_details: list[Tuple[str, str, str, str, str, str, Decimal, str]] = []
     unified_aggregates: list[Tuple[str, str, str, Decimal, str]] = []
+
+    # Converte nomes para caminhos absolutos dentro de INPUT_DIR, quando necessário
+    input_files = _resolve_inputs(input_files)
 
     for input_path in input_files:
         totals, meta, details = parse_file(input_path)

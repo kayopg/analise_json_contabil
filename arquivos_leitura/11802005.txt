@@ -1,0 +1,104 @@
+numeroOrganograma:  "11802005" 
+ descricaoOrganograma:  "Fundeb Eja" 
+ descricaoVinculoEmpregaticio:  "Celetista" 
+ provisaoBaixada:  false 
+ valor:  "343.52" 
+ funcionarios: Array [1]  
+ 0: Object   
+ matricula:  "12131" 
+ nome:  "VILMA FERREIRA LIMA" 
+ cpf:  "25893525817" 
+ valor:  343.52 
+ numeroEvento:  "7340" 
+ descricaoEvento:  "IMPOSTO DE RENDA 13º" 
+ tipoEvento:  "DESCONTO" 
+ 1692: Object   
+ numeroOrganograma:  "11802005" 
+ descricaoOrganograma:  "Fundeb Eja" 
+ descricaoVinculoEmpregaticio:  "Celetista" 
+ provisaoBaixada:  false 
+ valor:  "90.23" 
+ funcionarios: Array [1]  
+ 0: Object   
+ matricula:  "12131" 
+ nome:  "VILMA FERREIRA LIMA" 
+ cpf:  "25893525817" 
+ valor:  90.23 
+ numeroEvento:  "2023" 
+ descricaoEvento:  "13º - MEDIA DSR" 
+ tipoEvento:  "PROVENTO" 
+ 1693: Object   
+ numeroOrganograma:  "11802005" 
+ descricaoOrganograma:  "Fundeb Eja" 
+ descricaoVinculoEmpregaticio:  "Celetista" 
+ provisaoBaixada:  false 
+ valor:  "2571.24" 
+ funcionarios: Array [2]  
+ 0: Object   
+ matricula:  "12131" 
+ nome:  "VILMA FERREIRA LIMA" 
+ cpf:  "25893525817" 
+ valor:  2311.1 
+ 1: Object   
+ matricula:  "131895" 
+ nome:  "ROSANA APARECIDA VIEIRA BRAUNA" 
+ cpf:  "15116307875" 
+ valor:  260.14 
+ numeroEvento:  "8340" 
+ descricaoEvento:  "DESCONTO ADIANTAMENTO 13º " 
+ tipoEvento:  "DESCONTO" 
+ 1694: Object   
+ numeroOrganograma:  "11802005" 
+ descricaoOrganograma:  "Fundeb Eja" 
+ descricaoVinculoEmpregaticio:  "Celetista" 
+ provisaoBaixada:  false 
+ valor:  "567.66" 
+ funcionarios: Array [2]  
+ 0: Object   
+ matricula:  "12131" 
+ nome:  "VILMA FERREIRA LIMA" 
+ cpf:  "25893525817" 
+ valor:  528.64 
+ 1: Object   
+ matricula:  "131895" 
+ nome:  "ROSANA APARECIDA VIEIRA BRAUNA" 
+ cpf:  "15116307875" 
+ valor:  39.02 
+ numeroEvento:  "8080" 
+ descricaoEvento:  "I.N.S.S. 13º " 
+ tipoEvento:  "DESCONTO" 
+ 1695: Object   
+ numeroOrganograma:  "11802005" 
+ descricaoOrganograma:  "Fundeb Eja" 
+ descricaoVinculoEmpregaticio:  "Celetista" 
+ provisaoBaixada:  false 
+ valor:  "423.70" 
+ funcionarios: Array [1]  
+ 0: Object   
+ matricula:  "12131" 
+ nome:  "VILMA FERREIRA LIMA" 
+ cpf:  "25893525817" 
+ valor:  423.7 
+ numeroEvento:  "2010" 
+ descricaoEvento:  "13º - MEDIA HORA EXTRA 50%" 
+ tipoEvento:  "PROVENTO" 
+ 1696: Object   
+ numeroOrganograma:  "11802005" 
+ descricaoOrganograma:  "Fundeb Eja" 
+ descricaoVinculoEmpregaticio:  "Celetista" 
+ provisaoBaixada:  false 
+ valor:  "5142.48" 
+ funcionarios: Array [2]  
+ 0: Object   
+ matricula:  "12131" 
+ nome:  "VILMA FERREIRA LIMA" 
+ cpf:  "25893525817" 
+ valor:  4622.19 
+ 1: Object   
+ matricula:  "131895" 
+ nome:  "ROSANA APARECIDA VIEIRA BRAUNA" 
+ cpf:  "15116307875" 
+ valor:  520.29 
+ numeroEvento:  "340" 
+ descricaoEvento:  "13º - SALARIO BASE" 
+ tipoEvento:  "PROVENTO" 
