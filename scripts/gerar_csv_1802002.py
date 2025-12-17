@@ -14,7 +14,12 @@ from typing import Dict, Optional, Tuple
 RE_MATRICULA = re.compile(r'^\s*matricula:\s*"?(?P<v>[^"\r\n]+)"?\s*$', re.IGNORECASE)
 RE_NOME = re.compile(r'^\s*nome:\s*"?(?P<v>[^"\r\n]+)"?\s*$', re.IGNORECASE)
 RE_CPF = re.compile(r'^\s*cpf:\s*"?(?P<v>[^"\r\n]+)"?\s*$', re.IGNORECASE)
-RE_VALOR = re.compile(r'^\s*valor:\s*(?P<v>[-+]?[0-9]+(?:[.,][0-9]+)?)\s*$', re.IGNORECASE)
+RE_VALOR = re.compile(r'^\s*valor:\s*"?(?P<v>[-+]?[0-9]+(?:[.,][0-9]+)?)"?\s*$', re.IGNORECASE)
+RE_NUMERO_EVENTO = re.compile(r'^\s*numeroEvento:\s*"?(?P<v>[^"\r\n]+)"?\s*$', re.IGNORECASE)
+RE_TIPO_EVENTO = re.compile(r'^\s*tipoEvento:\s*"?(?P<v>[^"\r\n]+)"?\s*$', re.IGNORECASE)
+RE_FUNCIONARIOS_ARRAY = re.compile(r'^\s*funcionarios:\s*Array\b', re.IGNORECASE)
+RE_NUMERO_ORGANOGRAMA = re.compile(r'^\s*numeroOrganograma:\s*"?(?P<v>[^"\r\n]+)"?\s*$', re.IGNORECASE)
+RE_TIPO_PROVENTO = re.compile(r'^\s*tipoProvento:\s*"?(?P<v>[^"\r\n]+)"?\s*$', re.IGNORECASE)
 
 
 def parse_decimal(s: str) -> Optional[Decimal]:
@@ -38,65 +43,226 @@ def parse_decimal(s: str) -> Optional[Decimal]:
         return None
 
 
-def main(argv: list[str]) -> int:
-    input_path = "1802002.txt"
-    output_path = "1802002_agrupado.csv"
+# Lista de arquivos de entrada (pode ser configurada pelo usuário)
+INPUT_FILES: list[str] = ["1802002.txt"]  # Ex.: ["1802002.txt", "11802004.txt", "11802005.txt"]
 
-    if len(argv) >= 2:
-        input_path = argv[1]
-    if len(argv) >= 3:
-        output_path = argv[2]
+# Listas de eventos a DESCONSIDERAR/EXCLUIR (numeroEvento)
+# Deixe vazias para considerar TODOS os eventos daquele tipo.
+EXCLUDE_PROVENTO_EVENTS: list[str] = [
+    "222", "224", "238", "312", "591", "965", "980", "1030", "1040", "1050",
+    "1120", "1545", "2002", "2003", "2005", "2007", "2010", "2011", "2012", "2013",
+    "2014", "2017", "2022", "2027", "2028", "2034", "2035", "2036", "2037", "2230",
+    "2270", "3000", "4440", "21690"
+]  # Exclui estes PROVENTOS da geração do CSV
+EXCLUDE_DESCONTO_EVENTS: list[str] = ["149", "7340", "7505", "8080", "8920"]  # Exclui estes DESCONTOS da geração do CSV
 
+
+def parse_file(input_path: str) -> Tuple[Dict[str, Decimal], Dict[str, Tuple[str, str]], list[Tuple[str, str, str, str, str, Decimal, str]]]:
+    """Processa um arquivo .txt e retorna (totals, meta, details).
+
+    details: lista de tuplas (matricula, nome, cpf, numeroEvento, tipoEvento, valorEvento, numeroOrganograma)
+    """
     totals: Dict[str, Decimal] = {}
-    meta: Dict[str, Tuple[str, str]] = {}  # matricula -> (nome, cpf)
+    meta: Dict[str, Tuple[str, str]] = {}
+    details: list[Tuple[str, str, str, str, str, Decimal, str]] = []
 
     with open(input_path, "r", encoding="utf-8", errors="replace") as f:
         lines = [ln.rstrip("\n") for ln in f]
 
-    i = 0
-    while i < len(lines):
-        m_mat = RE_MATRICULA.match(lines[i])
-        if not m_mat:
-            i += 1
+    current_matricula: Optional[str] = None
+    current_nome: str = ""
+    current_cpf: str = ""
+    current_event_type: Optional[str] = None  # 'PROVENTO' ou 'DESCONTO'
+    current_event_number: Optional[str] = None
+    within_funcionarios: bool = False
+    current_numero_organograma: Optional[str] = None
+
+    # Buffer do evento corrente (quando tipo/numero aparecem DEPOIS do array)
+    pending_event_contribs: list[Tuple[str, str, str, Decimal]] = []
+    pending_event_number: Optional[str] = None
+    pending_event_type: Optional[str] = None
+    pending_event_organograma: Optional[str] = None
+
+    for ln in lines:
+        # helper: verifica se o evento NÃO está em listas de exclusão
+        def _allowed_event(num: Optional[str], typ: Optional[str]) -> bool:
+            ptype = (typ or "").upper()
+            if ptype == "PROVENTO":
+                # se lista vazia, permite todos; senão, permite apenas se não estiver na lista
+                return (not EXCLUDE_PROVENTO_EVENTS) or (num not in EXCLUDE_PROVENTO_EVENTS)
+            if ptype == "DESCONTO":
+                return (not EXCLUDE_DESCONTO_EVENTS) or (num not in EXCLUDE_DESCONTO_EVENTS)
+            return False
+
+        m_ne = RE_NUMERO_EVENTO.match(ln)
+        if m_ne:
+            current_event_number = m_ne.group("v").strip()
+            pending_event_number = current_event_number
+            within_funcionarios = False
+            if pending_event_type and pending_event_contribs:
+                ptype = pending_event_type or ""
+                sign = Decimal("1") if ptype == "PROVENTO" else Decimal("-1")
+                if _allowed_event(pending_event_number, pending_event_type):
+                    for (mat, nome, cpf, val) in pending_event_contribs:
+                        applied = (val * sign)
+                        totals[mat] = totals.get(mat, Decimal("0")) + applied
+                        details.append((mat, nome, cpf, pending_event_number or "", ptype, applied, pending_event_organograma or ""))
+                pending_event_contribs.clear()
+                pending_event_number = None
+                pending_event_type = None
+                pending_event_organograma = None
             continue
 
-        matricula = m_mat.group("v").strip()
-
-        # precisa ter mais 3 linhas
-        if i + 3 >= len(lines):
-            break
-
-        m_nome = RE_NOME.match(lines[i + 1])
-        m_cpf = RE_CPF.match(lines[i + 2])
-        m_val = RE_VALOR.match(lines[i + 3])
-
-        if not (m_nome and m_cpf and m_val):
-            # não é um bloco válido, anda 1 linha e tenta de novo
-            i += 1
+        m_no = RE_NUMERO_ORGANOGRAMA.match(ln)
+        if m_no:
+            current_numero_organograma = m_no.group("v").strip()
             continue
 
-        nome = m_nome.group("v").strip()
-        cpf = m_cpf.group("v").strip()
-        valor = parse_decimal(m_val.group("v"))
+        m = RE_TIPO_EVENTO.match(ln) or RE_TIPO_PROVENTO.match(ln)
+        if m:
+            current_event_type = m.group("v").strip().upper()
+            pending_event_type = current_event_type
+            within_funcionarios = False
+            if pending_event_number and pending_event_contribs:
+                ptype = pending_event_type or ""
+                sign = Decimal("1") if ptype == "PROVENTO" else Decimal("-1")
+                if _allowed_event(pending_event_number, pending_event_type):
+                    for (mat, nome, cpf, val) in pending_event_contribs:
+                        applied = (val * sign)
+                        totals[mat] = totals.get(mat, Decimal("0")) + applied
+                        details.append((mat, nome, cpf, pending_event_number or "", ptype, applied, pending_event_organograma or ""))
+                pending_event_contribs.clear()
+                pending_event_number = None
+                pending_event_type = None
+                pending_event_organograma = None
+            continue
 
-        if valor is not None:
-            totals[matricula] = totals.get(matricula, Decimal("0")) + valor
-            meta.setdefault(matricula, (nome, cpf))
+        if RE_FUNCIONARIOS_ARRAY.match(ln):
+            within_funcionarios = True
+            pending_event_contribs.clear()
+            pending_event_number = None
+            pending_event_type = None
+            pending_event_organograma = current_numero_organograma
 
-        i += 4  # avança para o próximo possível funcionário
+        m = RE_MATRICULA.match(ln)
+        if m:
+            current_matricula = m.group("v").strip()
+            mat = current_matricula
+            if within_funcionarios and mat:
+                totals.setdefault(mat, Decimal("0"))
+            if current_matricula and (current_nome or current_cpf):
+                meta[current_matricula] = (current_nome, current_cpf)
+            continue
 
-    out_dir = os.path.dirname(output_path)
-    if out_dir:
-        os.makedirs(out_dir, exist_ok=True)
+        m = RE_NOME.match(ln)
+        if m:
+            current_nome = m.group("v").strip()
+            if current_matricula:
+                meta[current_matricula] = (current_nome, current_cpf)
+            continue
+
+        m = RE_CPF.match(ln)
+        if m:
+            current_cpf = m.group("v").strip()
+            if current_matricula:
+                meta[current_matricula] = (current_nome, current_cpf)
+            continue
+
+        if within_funcionarios and current_matricula:
+            m_val = RE_VALOR.match(ln)
+            if m_val:
+                val = parse_decimal(m_val.group("v"))
+                if val is not None:
+                    nome, cpf = meta.get(current_matricula, (current_nome, current_cpf))
+                    pending_event_contribs.append((current_matricula, nome, cpf, val))
+                continue
+
+    return totals, meta, details
+
+
+def main(argv: list[str]) -> int:
+    # Determina lista de arquivos de entrada
+    if len(argv) >= 2:
+        input_files = argv[1:]
+    elif INPUT_FILES:
+        input_files = INPUT_FILES
+    else:
+        input_files = []
 
     q = Decimal("0.01")
-    with open(output_path, "w", encoding="utf-8", newline="") as csvfile:
-        w = csv.writer(csvfile)
-        w.writerow(["matricula", "nome", "cpf", "total"])
-        for matricula in sorted(totals.keys()):
+
+    # Helpers de ordenação
+    def _mat_key(mat: str) -> Tuple[int, str]:
+        try:
+            return (int(mat), "")
+        except Exception:
+            return (sys.maxsize, mat)
+
+    def _org_label(input_path: str) -> str:
+        base = os.path.splitext(os.path.basename(input_path))[0]
+        if base.endswith("_agrupado"):
+            base = base[: -len("_agrupado")]
+        return base
+
+    def _orgnum_key(orgnum: str) -> Tuple[int, str]:
+        try:
+            return (int(orgnum), "")
+        except Exception:
+            return (sys.maxsize, orgnum)
+
+    def _event_key(t: str) -> int:
+        tt = (t or "").upper()
+        if tt == "PROVENTO":
+            return 0
+        if tt == "DESCONTO":
+            return 1
+        return 99
+
+    # Unifica detalhes de todos os arquivos e acumula agregados para saída única
+    unified_details: list[Tuple[str, str, str, str, str, str, Decimal, str]] = []
+    unified_aggregates: list[Tuple[str, str, str, Decimal, str]] = []
+
+    for input_path in input_files:
+        totals, meta, details = parse_file(input_path)
+        organograma = _org_label(input_path)
+        # acumula agregados para escrita única ao final
+        for matricula in totals.keys():
             nome, cpf = meta.get(matricula, ("", ""))
             total = totals[matricula].quantize(q, rounding=ROUND_HALF_UP)
-            w.writerow([matricula, nome, cpf, f"{total}"])
+            unified_aggregates.append((matricula, nome, cpf, total, organograma))
+
+        # agrega no detalhe unificado
+        for (mat, nome, cpf, nevento, tevento, applied, orgnum) in details:
+            unified_details.append((orgnum, mat, nome, cpf, nevento, tevento, applied, organograma))
+
+    output_path = "detalhe_unificado.csv"
+
+    # Se não há arquivos para leitura, escreve mensagem informativa no arquivo final
+    if not input_files:
+        with open(output_path, "w", encoding="utf-8", newline="") as csvfile:
+            w = csv.writer(csvfile)
+            w.writerow(["mensagem"])
+            w.writerow(["Nenhum arquivo de leitura informado (use argumentos ou preencha INPUT_FILES)."])
+        return 0
+
+    # Ordena por numeroOrganograma, matrícula e tipoEvento
+    unified_details.sort(key=lambda r: (_orgnum_key(r[0]), _mat_key(r[1]), _event_key(r[5])))
+
+    # Escreve único arquivo detalhado unificado com coluna "organograma"
+    with open(output_path, "w", encoding="utf-8", newline="") as csvfile:
+        w = csv.writer(csvfile)
+        w.writerow(["numeroOrganograma", "matricula", "nome", "cpf", "numeroEvento", "tipoEvento", "valorEvento", "organograma"])
+        for orgnum, mat, nome, cpf, nevento, tevento, applied, org in unified_details:
+            w.writerow([orgnum, mat, nome, cpf, nevento, tevento, f"{applied.quantize(q, rounding=ROUND_HALF_UP)}", org])
+
+    # Escreve único arquivo agregado por matrícula, com coluna "organograma"
+    output_agg_all = "valores_agrupados_por_matricula.csv"
+    unified_aggregates.sort(key=lambda r: (_org_label(r[4]), _mat_key(r[0])))
+    with open(output_agg_all, "w", encoding="utf-8", newline="") as csvfile:
+        w = csv.writer(csvfile)
+        w.writerow(["matricula", "nome", "cpf", "total", "organograma"])
+        for matricula, nome, cpf, total, org in unified_aggregates:
+            w.writerow([matricula, nome, cpf, f"{total}", org])
 
     return 0
 
