@@ -56,11 +56,17 @@ INPUT_FILES: list[str] = [
 # Listas de eventos a DESCONSIDERAR/EXCLUIR (numeroEvento)
 # Deixe vazias para considerar TODOS os eventos daquele tipo.
 EXCLUDE_PROVENTO_EVENTS: list[str] = [
-    "222", "224", "238", "312", "591", "965", "980", "1030", "1040", "1050",
-    "1120", "2002", "2005", "2007", "2010", "2011", "2022", "2027", "2035", "2036",
-    "2037", "2230", "2270", "3000", "4440", "21690"
+    "295", "320", "340", "341", "342", "360", "590", "595", "860", "890",
+    "960", "1015", "1115", "1405", "1545", "1755", "1765", "1955", "2000", "2001",
+    "2003", "2004", "2006", "2008", "2009", "2012", "2013", "2014", "2015", "2016",
+    "2017", "2018", "2019", "2020", "2021", "2023", "2024", "2025", "2026", "2028",
+    "2034", "30109"
 ]  # Exclui estes PROVENTOS da geração do CSV
-EXCLUDE_DESCONTO_EVENTS: list[str] = ["149", "7340", "7505", "8080", "8920"]  # Exclui estes DESCONTOS da geração do CSV
+EXCLUDE_DESCONTO_EVENTS: list[str] = [
+    "8340",
+    "9005",
+    "9015"
+]  # Exclui estes DESCONTOS da geração do CSV
 
 
 def parse_file(input_path: str) -> Tuple[Dict[str, Decimal], Dict[str, Tuple[str, str]], list[Tuple[str, str, str, str, str, Decimal, str]]]:
