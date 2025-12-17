@@ -1,0 +1,4724 @@
+numeroOrganograma:  "11802004" 
+ descricaoOrganograma:  "Fundeb Especial" 
+ descricaoVinculoEmpregaticio:  "Celetista" 
+ provisaoBaixada:  false 
+ valor:  "19889.91" 
+ funcionarios: Array [19]  
+ 0: Object   
+ matricula:  "1088" 
+ nome:  "EVELY BEDORE" 
+ cpf:  "27839514871" 
+ valor:  654.57 
+ 1: Object   
+ matricula:  "1093" 
+ nome:  "MARIA ROSELUCIA RODRIGUES DA SILVA" 
+ cpf:  "11313286800" 
+ valor:  639.63 
+ 2: Object   
+ matricula:  "5800" 
+ nome:  "SANDRA APARECIDA MORA DA COSTA" 
+ cpf:  "17795269893" 
+ valor:  641.56 
+ 3: Object   
+ matricula:  "4248" 
+ nome:  "CELIA REGINA CORGA DA SILVA ANGELO" 
+ cpf:  "02983250806" 
+ valor:  1544.25 
+ 4: Object   
+ matricula:  "4439" 
+ nome:  "AVANIL APARECIDA GONZAGA" 
+ cpf:  "10011417846" 
+ valor:  1557.51 
+ 5: Object   
+ matricula:  "7210" 
+ nome:  "MARIA CRISTINA DA MATA" 
+ cpf:  "25564294882" 
+ valor:  1140.14 
+ 6: Object   
+ matricula:  "6218" 
+ nome:  "ANGELINA MARCELIA LESSART BRANDAO" 
+ cpf:  "45749485749" 
+ valor:  1183.28 
+ 7: Object   
+ matricula:  "1330" 
+ nome:  "ELISABETH BENEDITA TEREZA VERGARA BARBOSA" 
+ cpf:  "07785439869" 
+ valor:  655.09 
+ 8: Object   
+ matricula:  "1619" 
+ nome:  "RITA DE CASSIA SCANFELA" 
+ cpf:  "18620169840" 
+ valor:  1247.76 
+ 9: Object   
+ matricula:  "6005" 
+ nome:  "HALINE SALGADO MARQUES" 
+ cpf:  "28731237886" 
+ valor:  624.39 
+ 10: Object   
+ matricula:  "6682" 
+ nome:  "MIRELLA RAIKA DE NOVAES GONZAGA COCO" 
+ cpf:  "03738216626" 
+ valor:  1213.87 
+ 11: Object   
+ matricula:  "5928" 
+ nome:  "SERGIO DE OLIVEIRA SALAS" 
+ cpf:  "24724772875" 
+ valor:  1252.64 
+ 12: Object   
+ matricula:  "5741" 
+ nome:  "VIVIAN CASTELO BRANCO GALVAO" 
+ cpf:  "15588821890" 
+ valor:  1251.96 
+ 13: Object   
+ matricula:  "8294" 
+ nome:  "EDERLI PELOSI FREIRE MONAY" 
+ cpf:  "08500816880" 
+ valor:  1257.8 
+ 14: Object   
+ matricula:  "6396" 
+ nome:  "TEREZINHA APARECIDA PIRES BARBOSA TREVELINI" 
+ cpf:  "07695693820" 
+ valor:  1293 
+ 15: Object   
+ matricula:  "9016" 
+ nome:  "PRISCILA DE MORAES DOMINGUES" 
+ cpf:  "12057074846" 
+ valor:  1313.14 
+ 16: Object   
+ matricula:  "6627" 
+ nome:  "MARIA PAULA NASCIMENTO WADA" 
+ cpf:  "08164788805" 
+ valor:  1220.47 
+ 17: Object   
+ matricula:  "571" 
+ nome:  "ELENICE DORATIOTTO BARTOLOMEI" 
+ cpf:  "12833457812" 
+ valor:  530.88 
+ 18: Object   
+ matricula:  "618" 
+ nome:  "TEREZINHA DE JESUS ARANTES BARBOSA" 
+ cpf:  "17796958889" 
+ valor:  667.97 
+ numeroEvento:  "2004" 
+ descricaoEvento:  "13º - SEXTA PARTE " 
+ tipoEvento:  "PROVENTO" 
+ 381: Object   
+ numeroOrganograma:  "11802004" 
+ descricaoOrganograma:  "Fundeb Especial" 
+ descricaoVinculoEmpregaticio:  "Celetista" 
+ provisaoBaixada:  false 
+ valor:  "1071.78" 
+ funcionarios: Array [1]  
+ 0: Object   
+ matricula:  "6891" 
+ nome:  "GILCELENE DE FATIMA MARTINS SOUZA" 
+ cpf:  "13212658835" 
+ valor:  1071.78 
+ numeroEvento:  "2014" 
+ descricaoEvento:  "13º - HORA ATIVIDADE FIXO" 
+ tipoEvento:  "PROVENTO" 
+ 382: Object   
+ numeroOrganograma:  "11802004" 
+ descricaoOrganograma:  "Fundeb Especial" 
+ descricaoVinculoEmpregaticio:  "Celetista" 
+ provisaoBaixada:  false 
+ valor:  "1355.84" 
+ funcionarios: Array [1]  
+ 0: Object   
+ matricula:  "10496" 
+ nome:  "AIRAM CRISTINE BORZANI DOS VALES" 
+ cpf:  "31205460896" 
+ valor:  1355.84 
+ numeroEvento:  "2019" 
+ descricaoEvento:  "13º - ADICIONAL ESPECIAL (PROFESSOR COORD.)" 
+ tipoEvento:  "PROVENTO" 
+ 383: Object   
+ numeroOrganograma:  "11802004" 
+ descricaoOrganograma:  "Fundeb Especial" 
+ descricaoVinculoEmpregaticio:  "Celetista" 
+ provisaoBaixada:  false 
+ valor:  "41700.51" 
+ funcionarios: Array [60]  
+ 0: Object   
+ matricula:  "1088" 
+ nome:  "EVELY BEDORE" 
+ cpf:  "27839514871" 
+ valor:  218.84 
+ 1: Object   
+ matricula:  "1093" 
+ nome:  "MARIA ROSELUCIA RODRIGUES DA SILVA" 
+ cpf:  "11313286800" 
+ valor:  202.21 
+ 2: Object   
+ matricula:  "9317" 
+ nome:  "LETICIA COELHO RUIZ" 
+ cpf:  "21834515807" 
+ valor:  1222.4 
+ 3: Object   
+ matricula:  "8288" 
+ nome:  "ANA SILVIA DE PAIVA E SILVA" 
+ cpf:  "31679839810" 
+ valor:  669.26 
+ 4: Object   
+ matricula:  "5800" 
+ nome:  "SANDRA APARECIDA MORA DA COSTA" 
+ cpf:  "17795269893" 
+ valor:  193.69 
+ 5: Object   
+ matricula:  "10476" 
+ nome:  "IDINES SANTOS DE ANDRADE SILVA" 
+ cpf:  "18933415858" 
+ valor:  484.99 
+ 6: Object   
+ matricula:  "4248" 
+ nome:  "CELIA REGINA CORGA DA SILVA ANGELO" 
+ cpf:  "02983250806" 
+ valor:  1802.25 
+ 7: Object   
+ matricula:  "8359" 
+ nome:  "VANESSA APARECIDA NUNES SEPULVEDA" 
+ cpf:  "30714544817" 
+ valor:  781.05 
+ 8: Object   
+ matricula:  "6956" 
+ nome:  "JOSETI APARECIDA DA SILVA BORGES" 
+ cpf:  "63613530953" 
+ valor:  826 
+ 9: Object   
+ matricula:  "4439" 
+ nome:  "AVANIL APARECIDA GONZAGA" 
+ cpf:  "10011417846" 
+ valor:  1827.78 
+ 10: Object   
+ matricula:  "7210" 
+ nome:  "MARIA CRISTINA DA MATA" 
+ cpf:  "25564294882" 
+ valor:  1445.94 
+ 11: Object   
+ matricula:  "8115" 
+ nome:  "VANESSA FALCAO BARELLA" 
+ cpf:  "28815687858" 
+ valor:  671.44 
+ 12: Object   
+ matricula:  "8129" 
+ nome:  "ANDREIA MEIRE CESARINO" 
+ cpf:  "85476137653" 
+ valor:  754.13 
+ 13: Object   
+ matricula:  "6218" 
+ nome:  "ANGELINA MARCELIA LESSART BRANDAO" 
+ cpf:  "45749485749" 
+ valor:  1107.39 
+ 14: Object   
+ matricula:  "10242" 
+ nome:  "LUIS CARLOS PINHEIRO" 
+ cpf:  "13415500870" 
+ valor:  1175.96 
+ 15: Object   
+ matricula:  "11197" 
+ nome:  "MARIA CECILIA REGIS CHAMA PUGA" 
+ cpf:  "12519150866" 
+ valor:  450.76 
+ 16: Object   
+ matricula:  "9991" 
+ nome:  "MARCIO ROGERIO DE OLIVEIRA AZEVEDO" 
+ cpf:  "15868619803" 
+ valor:  7.61 
+ 17: Object   
+ matricula:  "11291" 
+ nome:  "ANA SILVIA DE PAIVA E SILVA" 
+ cpf:  "31679839810" 
+ valor:  1256.25 
+ 18: Object   
+ matricula:  "11468" 
+ nome:  "MARIA NEIDE ROCHA TAVARES SOUTELO" 
+ cpf:  "07600749840" 
+ valor:  450.76 
+ 19: Object   
+ matricula:  "10496" 
+ nome:  "AIRAM CRISTINE BORZANI DOS VALES" 
+ cpf:  "31205460896" 
+ valor:  912.95 
+ 20: Object   
+ matricula:  "12358" 
+ nome:  "ISABEL CRISTINA VERONEZI OLIVEIRA" 
+ cpf:  "28592954886" 
+ valor:  227.88 
+ 21: Object   
+ matricula:  "12393" 
+ nome:  "KELLY RAMOS DE SOUSA NERIS" 
+ cpf:  "35434022858" 
+ valor:  282.52 
+ 22: Object   
+ matricula:  "11325" 
+ nome:  "THAIS FRANCIELE VALINHOS" 
+ cpf:  "43650316862" 
+ valor:  434.77 
+ 23: Object   
+ matricula:  "11524" 
+ nome:  "CINTIA DE MORAIS COUTINHO" 
+ cpf:  "45242758864" 
+ valor:  14.62 
+ 24: Object   
+ matricula:  "11724" 
+ nome:  "MARTA DE CARVALHO" 
+ cpf:  "77325494815" 
+ valor:  439.56 
+ 25: Object   
+ matricula:  "11894" 
+ nome:  "VERONICA MOREIRA CONCEICAO COUTO" 
+ cpf:  "28005679882" 
+ valor:  22.08 
+ 26: Object   
+ matricula:  "12269" 
+ nome:  "MARILZA SATHLER DE SOUZA" 
+ cpf:  "26730347813" 
+ valor:  661.59 
+ 27: Object   
+ matricula:  "12494" 
+ nome:  "MARILAN RIBEIRO DE OLIVEIRA ALBUQUERQUE" 
+ cpf:  "13472555831" 
+ valor:  1194.77 
+ 28: Object   
+ matricula:  "12209" 
+ nome:  "MARCO ANTONIO BATISTA RAMOS" 
+ cpf:  "26879188818" 
+ valor:  305.97 
+ 29: Object   
+ matricula:  "12195" 
+ nome:  "MARIA DE LOURDES DA SILVA" 
+ cpf:  "24782065876" 
+ valor:  304.25 
+ 30: Object   
+ matricula:  "12481" 
+ nome:  "REBECA AUGUSTO GERALDO DOS SANTOS" 
+ cpf:  "42414673850" 
+ valor:  304.9 
+ 31: Object   
+ matricula:  "12516" 
+ nome:  "AMANDA MACEDO SANTOS" 
+ cpf:  "04847080580" 
+ valor:  447.73 
+ 32: Object   
+ matricula:  "9788" 
+ nome:  "DANIELA APARECIDA MANOEL CAETANO" 
+ cpf:  "27687010841" 
+ valor:  210.3 
+ 33: Object   
+ matricula:  "8174" 
+ nome:  "VANESSA FERREIRA DIAS BARBIERI" 
+ cpf:  "30974604895" 
+ valor:  1078.03 
+ 34: Object   
+ matricula:  "1330" 
+ nome:  "ELISABETH BENEDITA TEREZA VERGARA BARBOSA" 
+ cpf:  "07785439869" 
+ valor:  219.66 
+ 35: Object   
+ matricula:  "8595" 
+ nome:  "MONICA MOREIRA TAVARES" 
+ cpf:  "09073497817" 
+ valor:  636.23 
+ 36: Object   
+ matricula:  "1619" 
+ nome:  "RITA DE CASSIA SCANFELA" 
+ cpf:  "18620169840" 
+ valor:  1231.5 
+ 37: Object   
+ matricula:  "6005" 
+ nome:  "HALINE SALGADO MARQUES" 
+ cpf:  "28731237886" 
+ valor:  181.01 
+ 38: Object   
+ matricula:  "6682" 
+ nome:  "MIRELLA RAIKA DE NOVAES GONZAGA COCO" 
+ cpf:  "03738216626" 
+ valor:  1114.14 
+ 39: Object   
+ matricula:  "8507" 
+ nome:  "GLEISE CRISTINA PRUDENCIANO" 
+ cpf:  "08219165804" 
+ valor:  796.09 
+ 40: Object   
+ matricula:  "6891" 
+ nome:  "GILCELENE DE FATIMA MARTINS SOUZA" 
+ cpf:  "13212658835" 
+ valor:  338.52 
+ 41: Object   
+ matricula:  "5928" 
+ nome:  "SERGIO DE OLIVEIRA SALAS" 
+ cpf:  "24724772875" 
+ valor:  1501.05 
+ 42: Object   
+ matricula:  "11379" 
+ nome:  "VANESSA JACOB SUAIDE" 
+ cpf:  "24586490845" 
+ valor:  341.59 
+ 43: Object   
+ matricula:  "5741" 
+ nome:  "VIVIAN CASTELO BRANCO GALVAO" 
+ cpf:  "15588821890" 
+ valor:  1187.47 
+ 44: Object   
+ matricula:  "8294" 
+ nome:  "EDERLI PELOSI FREIRE MONAY" 
+ cpf:  "08500816880" 
+ valor:  2008.28 
+ 45: Object   
+ matricula:  "6396" 
+ nome:  "TEREZINHA APARECIDA PIRES BARBOSA TREVELINI" 
+ cpf:  "07695693820" 
+ valor:  2574.69 
+ 46: Object   
+ matricula:  "9787" 
+ nome:  "MIDIAN SILVA SANTOS TEODORO" 
+ cpf:  "41198036869" 
+ valor:  692.26 
+ 47: Object   
+ matricula:  "9016" 
+ nome:  "PRISCILA DE MORAES DOMINGUES" 
+ cpf:  "12057074846" 
+ valor:  1253.09 
+ 48: Object   
+ matricula:  "9930" 
+ nome:  "MARIA HELENA MADEIRA" 
+ cpf:  "24920582803" 
+ valor:  47.82 
+ 49: Object   
+ matricula:  "11498" 
+ nome:  "CARMEM JOSE PARIZ MACHADO" 
+ cpf:  "34444000805" 
+ valor:  450.76 
+ 50: Object   
+ matricula:  "9253" 
+ nome:  "ADRIANA FERREIRA DA SILVA MARTINS" 
+ cpf:  "24797323809" 
+ valor:  644.64 
+ 51: Object   
+ matricula:  "6627" 
+ nome:  "MARIA PAULA NASCIMENTO WADA" 
+ cpf:  "08164788805" 
+ valor:  1178.98 
+ 52: Object   
+ matricula:  "8902" 
+ nome:  "JACKELINE DE PAULO GIROTO" 
+ cpf:  "18083303828" 
+ valor:  628.07 
+ 53: Object   
+ matricula:  "11736" 
+ nome:  "SILVIA REGINA PINHO DE CARVALHO" 
+ cpf:  "08465549842" 
+ valor:  455.43 
+ 54: Object   
+ matricula:  "11999" 
+ nome:  "SANDRA IZABEL FERREIRA CUCHINIERK" 
+ cpf:  "74683128691" 
+ valor:  14.27 
+ 55: Object   
+ matricula:  "9259" 
+ nome:  "ROSIMAR RIBEIRO DINIZ" 
+ cpf:  "30508808804" 
+ valor:  474.32 
+ 56: Object   
+ matricula:  "8326" 
+ nome:  "MARCELA APARECIDA MATIAS PEREIRA SILVA" 
+ cpf:  "32175494810" 
+ valor:  539.81 
+ 57: Object   
+ matricula:  "7098" 
+ nome:  "ELIETE MARIA DOS SANTOS" 
+ cpf:  "03533567869" 
+ valor:  504.78 
+ 58: Object   
+ matricula:  "571" 
+ nome:  "ELENICE DORATIOTTO BARTOLOMEI" 
+ cpf:  "12833457812" 
+ valor:  55.48 
+ 59: Object   
+ matricula:  "618" 
+ nome:  "TEREZINHA DE JESUS ARANTES BARBOSA" 
+ cpf:  "17796958889" 
+ valor:  239.94 
+ numeroEvento:  "7340" 
+ descricaoEvento:  "IMPOSTO DE RENDA 13º" 
+ tipoEvento:  "DESCONTO" 
+ 384: Object   
+ numeroOrganograma:  "11802004" 
+ descricaoOrganograma:  "Fundeb Especial" 
+ descricaoVinculoEmpregaticio:  "Celetista" 
+ provisaoBaixada:  false 
+ valor:  "15711.51" 
+ funcionarios: Array [78]  
+ 0: Object   
+ matricula:  "1093" 
+ nome:  "MARIA ROSELUCIA RODRIGUES DA SILVA" 
+ cpf:  "11313286800" 
+ valor:  30.68 
+ 1: Object   
+ matricula:  "7131" 
+ nome:  "FRANCIS CARLA FILIPE" 
+ cpf:  "26690727807" 
+ valor:  90.85 
+ 2: Object   
+ matricula:  "7210" 
+ nome:  "MARIA CRISTINA DA MATA" 
+ cpf:  "25564294882" 
+ valor:  396.81 
+ 3: Object   
+ matricula:  "11197" 
+ nome:  "MARIA CECILIA REGIS CHAMA PUGA" 
+ cpf:  "12519150866" 
+ valor:  423.26 
+ 4: Object   
+ matricula:  "9991" 
+ nome:  "MARCIO ROGERIO DE OLIVEIRA AZEVEDO" 
+ cpf:  "15868619803" 
+ valor:  223.37 
+ 5: Object   
+ matricula:  "11468" 
+ nome:  "MARIA NEIDE ROCHA TAVARES SOUTELO" 
+ cpf:  "07600749840" 
+ valor:  423.26 
+ 6: Object   
+ matricula:  "11472" 
+ nome:  "ANDRESSA DE LIMA TEIXEIRA QUIRINO" 
+ cpf:  "42700870808" 
+ valor:  89.23 
+ 7: Object   
+ matricula:  "12400" 
+ nome:  "LUCIMARA DOS SANTOS PEREIRA" 
+ cpf:  "33951201800" 
+ valor:  233.6 
+ 8: Object   
+ matricula:  "11325" 
+ nome:  "THAIS FRANCIELE VALINHOS" 
+ cpf:  "43650316862" 
+ valor:  365.12 
+ 9: Object   
+ matricula:  "11459" 
+ nome:  "JOAO PAULO BATISTA GOMES" 
+ cpf:  "33678310850" 
+ valor:  223.37 
+ 10: Object   
+ matricula:  "11724" 
+ nome:  "MARTA DE CARVALHO" 
+ cpf:  "77325494815" 
+ valor:  365.12 
+ 11: Object   
+ matricula:  "11743" 
+ nome:  "ITALO GIULIANO BARSAN" 
+ cpf:  "48480520841" 
+ valor:  223.37 
+ 12: Object   
+ matricula:  "12265" 
+ nome:  "BEATRIZ FREITAS VALLIM" 
+ cpf:  "44148417802" 
+ valor:  167.39 
+ 13: Object   
+ matricula:  "12025" 
+ nome:  "DANIELA INGLES NOGUEIRA" 
+ cpf:  "32875075837" 
+ valor:  10.23 
+ 14: Object   
+ matricula:  "12266" 
+ nome:  "ELIANE MARIA BARBOSA" 
+ cpf:  "24887302894" 
+ valor:  172.23 
+ 15: Object   
+ matricula:  "11552" 
+ nome:  "ROSA HELENA LOPES" 
+ cpf:  "26658326827" 
+ valor:  158.74 
+ 16: Object   
+ matricula:  "131690" 
+ nome:  "GIOVANA SANTOS DOS REIS" 
+ cpf:  "44752442850" 
+ valor:  168.56 
+ 17: Object   
+ matricula:  "12442" 
+ nome:  "VALERIA CRISTINA BIANCHI" 
+ cpf:  "26910869842" 
+ valor:  166.01 
+ 18: Object   
+ matricula:  "12452" 
+ nome:  "RAVI XAVIER EUGENIO LOBO/ROSANA XAVIER EUGENIO" 
+ cpf:  "39993650803" 
+ valor:  190.95 
+ 19: Object   
+ matricula:  "12413" 
+ nome:  "GLAUCIA ALVES DE SIQUEIRA" 
+ cpf:  "35151830864" 
+ valor:  233.6 
+ 20: Object   
+ matricula:  "12423" 
+ nome:  "CLARETE DE LIMA" 
+ cpf:  "10793547865" 
+ valor:  14.54 
+ 21: Object   
+ matricula:  "12417" 
+ nome:  "NIDIA MARIA DE OLIVEIRA MENDES" 
+ cpf:  "51721178813" 
+ valor:  233.6 
+ 22: Object   
+ matricula:  "12416" 
+ nome:  "MICHELLE ELISA SAITO FAGUNDES PINHEIRO" 
+ cpf:  "24688807813" 
+ valor:  233.6 
+ 23: Object   
+ matricula:  "131865" 
+ nome:  "IDIARA SANTOS DE JESUS" 
+ cpf:  "16588217773" 
+ valor:  219.96 
+ 24: Object   
+ matricula:  "11944" 
+ nome:  "KAREN CRISTIANE DO PRADO CONELHEIRO" 
+ cpf:  "36600177870" 
+ valor:  223.37 
+ 25: Object   
+ matricula:  "11709" 
+ nome:  "MARCIA DE SOUZA MENDES" 
+ cpf:  "33991417855" 
+ valor:  223.37 
+ 26: Object   
+ matricula:  "131708" 
+ nome:  "DEBORA VIEIRA DA SILVA" 
+ cpf:  "46511586847" 
+ valor:  237.18 
+ 27: Object   
+ matricula:  "12327" 
+ nome:  "LEONARDO LUCIANO MARQUES DA SILVA" 
+ cpf:  "48729447801" 
+ valor:  233.6 
+ 28: Object   
+ matricula:  "12236" 
+ nome:  "GABRIELA CRISTINA BARBOSA" 
+ cpf:  "36892454860" 
+ valor:  233.6 
+ 29: Object   
+ matricula:  "12259" 
+ nome:  "PAMELA ISABEL RUBIO RUBIO" 
+ cpf:  "19572222805" 
+ valor:  125.19 
+ 30: Object   
+ matricula:  "131646" 
+ nome:  "GIOVANNA EMANUELY PASSOS" 
+ cpf:  "55957590894" 
+ valor:  224.63 
+ 31: Object   
+ matricula:  "131667" 
+ nome:  "FRANCISLAINE DE OLIVEIRA FROSSARD BRUM" 
+ cpf:  "09094641704" 
+ valor:  235.1 
+ 32: Object   
+ matricula:  "131642" 
+ nome:  "ANDRE LUIS PRETO SILVA" 
+ cpf:  "49037739814" 
+ valor:  224.63 
+ 33: Object   
+ matricula:  "131910" 
+ nome:  "EMMANUELLE ROBERTA DA SILVA" 
+ cpf:  "44247510827" 
+ valor:  143.11 
+ 34: Object   
+ matricula:  "131911" 
+ nome:  "BEATRIZ DE OLIVEIRA TEIXEIRA" 
+ cpf:  "44989499867" 
+ valor:  143.11 
+ 35: Object   
+ matricula:  "131894" 
+ nome:  "ANDERSON DA ROCHA" 
+ cpf:  "24986736876" 
+ valor:  238.51 
+ 36: Object   
+ matricula:  "12225" 
+ nome:  "KATIA CRISTINA MACHADO RIBEIRO" 
+ cpf:  "45123553835" 
+ valor:  233.6 
+ 37: Object   
+ matricula:  "131749" 
+ nome:  "TIAGO HENRIQUE MORAES SANTOS" 
+ cpf:  "42331446881" 
+ valor:  238.51 
+ 38: Object   
+ matricula:  "12878" 
+ nome:  "FRANCISCO FIDELES ALVES JUNIOR" 
+ cpf:  "38729554896" 
+ valor:  36.75 
+ 39: Object   
+ matricula:  "131835" 
+ nome:  "PABLO HENRIQUE SILVEIRA" 
+ cpf:  "48291235830" 
+ valor:  169.5 
+ 40: Object   
+ matricula:  "131755" 
+ nome:  "JENIFFER SILVEIRA CHAGAS" 
+ cpf:  "56457334873" 
+ valor:  238.51 
+ 41: Object   
+ matricula:  "12983" 
+ nome:  "ELAINE FERREIRA DE SOUZA" 
+ cpf:  "15556001740" 
+ valor:  231.19 
+ 42: Object   
+ matricula:  "131619" 
+ nome:  "SUELI DO PRADO" 
+ cpf:  "15465973870" 
+ valor:  159.64 
+ 43: Object   
+ matricula:  "12481" 
+ nome:  "REBECA AUGUSTO GERALDO DOS SANTOS" 
+ cpf:  "42414673850" 
+ valor:  342.3 
+ 44: Object   
+ matricula:  "131693" 
+ nome:  "FRANCISCA ODILANIA DE OLIVEIRA SILVA" 
+ cpf:  "00072445335" 
+ valor:  237.18 
+ 45: Object   
+ matricula:  "131698" 
+ nome:  "MARIANA APARECIDA DA SILVA" 
+ cpf:  "34452461816" 
+ valor:  168.56 
+ 46: Object   
+ matricula:  "131810" 
+ nome:  "EDNA PEREIRA LIMA" 
+ cpf:  "27548215894" 
+ valor:  127.13 
+ 47: Object   
+ matricula:  "131795" 
+ nome:  "SIMONE GRAZIELA PALINI" 
+ cpf:  "30413431851" 
+ valor:  143.1 
+ 48: Object   
+ matricula:  "12336" 
+ nome:  "CLEBER LUCAS SANTANA BELO" 
+ cpf:  "17178057793" 
+ valor:  233.6 
+ 49: Object   
+ matricula:  "12540" 
+ nome:  "TEREZA CRISTINA DOS SANTOS TELLES" 
+ cpf:  "46981340801" 
+ valor:  14.54 
+ 50: Object   
+ matricula:  "12543" 
+ nome:  "MARCIA CRISTINA MOURA SOUZA ALVES" 
+ cpf:  "13227208784" 
+ valor:  233.6 
+ 51: Object   
+ matricula:  "12539" 
+ nome:  "SANDRA REGINA GODOY BARBOSA" 
+ cpf:  "18193694805" 
+ valor:  166.01 
+ 52: Object   
+ matricula:  "12954" 
+ nome:  "GUSTAVO ZINI FERNANDES COSTA" 
+ cpf:  "47877918852" 
+ valor:  236.82 
+ 53: Object   
+ matricula:  "12955" 
+ nome:  "ELIETE APARECIDA DIAS OLIVEIRA" 
+ cpf:  "25459431859" 
+ valor:  236.82 
+ 54: Object   
+ matricula:  "12534" 
+ nome:  "ENZO ALMEIDA BRILHA SANTOS" 
+ cpf:  "51977188893" 
+ valor:  166.01 
+ 55: Object   
+ matricula:  "12512" 
+ nome:  "ANDRE RICARDO CAVALCANTE SILVA" 
+ cpf:  "51528849841" 
+ valor:  166.01 
+ 56: Object   
+ matricula:  "12577" 
+ nome:  "BRENDA KAROLYNE SANTOS DA COSTA" 
+ cpf:  "49904412812" 
+ valor:  14.54 
+ 57: Object   
+ matricula:  "12516" 
+ nome:  "AMANDA MACEDO SANTOS" 
+ cpf:  "04847080580" 
+ valor:  38.76 
+ 58: Object   
+ matricula:  "11829" 
+ nome:  "ALINE MAIARA SILVA DI SARNO" 
+ cpf:  "38492735805" 
+ valor:  10.23 
+ 59: Object   
+ matricula:  "11982" 
+ nome:  "GABRIELA MOREIRA DE SOUSA CARVALHO" 
+ cpf:  "43872585860" 
+ valor:  223.37 
+ 60: Object   
+ matricula:  "8595" 
+ nome:  "MONICA MOREIRA TAVARES" 
+ cpf:  "09073497817" 
+ valor:  61.68 
+ 61: Object   
+ matricula:  "12273" 
+ nome:  "LARISSA CONCEICAO CAMPOS SILVA" 
+ cpf:  "47148916852" 
+ valor:  233.6 
+ 62: Object   
+ matricula:  "12446" 
+ nome:  "SILVANIA GONCALVES SANTOS" 
+ cpf:  "22089376864" 
+ valor:  14.54 
+ 63: Object   
+ matricula:  "12275" 
+ nome:  "HELENA MARIA FERNANDES DORATIOTTO" 
+ cpf:  "66666210697" 
+ valor:  233.6 
+ 64: Object   
+ matricula:  "12918" 
+ nome:  "ANA PAULA TELES" 
+ cpf:  "38092983879" 
+ valor:  168.3 
+ 65: Object   
+ matricula:  "9787" 
+ nome:  "MIDIAN SILVA SANTOS TEODORO" 
+ cpf:  "41198036869" 
+ valor:  466.34 
+ 66: Object   
+ matricula:  "12218" 
+ nome:  "IRENE ILARIO DE LIMA REGIS" 
+ cpf:  "27889273800" 
+ valor:  233.6 
+ 67: Object   
+ matricula:  "131695" 
+ nome:  "ANGELA DE CASSIA SILVA" 
+ cpf:  "30421959886" 
+ valor:  235.86 
+ 68: Object   
+ matricula:  "9930" 
+ nome:  "MARIA HELENA MADEIRA" 
+ cpf:  "24920582803" 
+ valor:  223.37 
+ 69: Object   
+ matricula:  "11512" 
+ nome:  "VALERIA CRISTINA DIAS PEREIRA" 
+ cpf:  "33232028802" 
+ valor:  108.41 
+ 70: Object   
+ matricula:  "11498" 
+ nome:  "CARMEM JOSE PARIZ MACHADO" 
+ cpf:  "34444000805" 
+ valor:  423.26 
+ 71: Object   
+ matricula:  "131785" 
+ nome:  "SILVANIA COSTA FRANCA" 
+ cpf:  "27641138896" 
+ valor:  129.95 
+ 72: Object   
+ matricula:  "9253" 
+ nome:  "ADRIANA FERREIRA DA SILVA MARTINS" 
+ cpf:  "24797323809" 
+ valor:  455.93 
+ 73: Object   
+ matricula:  "12427" 
+ nome:  "ELISANGELA ROSINEI FONTES" 
+ cpf:  "27010450889" 
+ valor:  92.46 
+ 74: Object   
+ matricula:  "11736" 
+ nome:  "SILVIA REGINA PINHO DE CARVALHO" 
+ cpf:  "08465549842" 
+ valor:  423.26 
+ 75: Object   
+ matricula:  "11958" 
+ nome:  "MARIANA TATSUE NISHI DE MORAIS" 
+ cpf:  "39309139846" 
+ valor:  223.37 
+ 76: Object   
+ matricula:  "131723" 
+ nome:  "ELZA FERREIRA DE BRITO" 
+ cpf:  "08420063894" 
+ valor:  141.25 
+ 77: Object   
+ matricula:  "12323" 
+ nome:  "DOUGLAS HENRIQUE DOS SANTOS PESSOA" 
+ cpf:  "46479409850" 
+ valor:  233.6 
+ numeroEvento:  "2020" 
+ descricaoEvento:  "13º - MEDIA ADICIONAL LOCAL TRABALHO" 
+ tipoEvento:  "PROVENTO" 
+ 385: Object   
+ numeroOrganograma:  "11802004" 
+ descricaoOrganograma:  "Fundeb Especial" 
+ descricaoVinculoEmpregaticio:  "Celetista" 
+ provisaoBaixada:  false 
+ valor:  "3041.18" 
+ funcionarios: Array [27]  
+ 0: Object   
+ matricula:  "10476" 
+ nome:  "IDINES SANTOS DE ANDRADE SILVA" 
+ cpf:  "18933415858" 
+ valor:  4.16 
+ 1: Object   
+ matricula:  "8359" 
+ nome:  "VANESSA APARECIDA NUNES SEPULVEDA" 
+ cpf:  "30714544817" 
+ valor:  6.76 
+ 2: Object   
+ matricula:  "7210" 
+ nome:  "MARIA CRISTINA DA MATA" 
+ cpf:  "25564294882" 
+ valor:  245.58 
+ 3: Object   
+ matricula:  "8129" 
+ nome:  "ANDREIA MEIRE CESARINO" 
+ cpf:  "85476137653" 
+ valor:  103.08 
+ 4: Object   
+ matricula:  "10242" 
+ nome:  "LUIS CARLOS PINHEIRO" 
+ cpf:  "13415500870" 
+ valor:  534.11 
+ 5: Object   
+ matricula:  "9389" 
+ nome:  "LILIAN BORGER KIMURA" 
+ cpf:  "03706031841" 
+ valor:  1.5 
+ 6: Object   
+ matricula:  "10496" 
+ nome:  "AIRAM CRISTINE BORZANI DOS VALES" 
+ cpf:  "31205460896" 
+ valor:  5.63 
+ 7: Object   
+ matricula:  "12268" 
+ nome:  "MARCO AURELIO PAULINO SANTOS" 
+ cpf:  "40751709859" 
+ valor:  1.82 
+ 8: Object   
+ matricula:  "12393" 
+ nome:  "KELLY RAMOS DE SOUSA NERIS" 
+ cpf:  "35434022858" 
+ valor:  3.59 
+ 9: Object   
+ matricula:  "11724" 
+ nome:  "MARTA DE CARVALHO" 
+ cpf:  "77325494815" 
+ valor:  3.03 
+ 10: Object   
+ matricula:  "12269" 
+ nome:  "MARILZA SATHLER DE SOUZA" 
+ cpf:  "26730347813" 
+ valor:  399.51 
+ 11: Object   
+ matricula:  "131911" 
+ nome:  "BEATRIZ DE OLIVEIRA TEIXEIRA" 
+ cpf:  "44989499867" 
+ valor:  26.86 
+ 12: Object   
+ matricula:  "131912" 
+ nome:  "JULIANA DE ANDRADE SILVA PEDROSO" 
+ cpf:  "42104611806" 
+ valor:  21.49 
+ 13: Object   
+ matricula:  "12209" 
+ nome:  "MARCO ANTONIO BATISTA RAMOS" 
+ cpf:  "26879188818" 
+ valor:  6.82 
+ 14: Object   
+ matricula:  "12195" 
+ nome:  "MARIA DE LOURDES DA SILVA" 
+ cpf:  "24782065876" 
+ valor:  5.6 
+ 15: Object   
+ matricula:  "131757" 
+ nome:  "LETICIA LEITE BATISTA NASCIMENTO" 
+ cpf:  "44665031843" 
+ valor:  5.37 
+ 16: Object   
+ matricula:  "12523" 
+ nome:  "ALESSANDRA SANTOS FARIAS" 
+ cpf:  "27333181871" 
+ valor:  0.65 
+ 17: Object   
+ matricula:  "12516" 
+ nome:  "AMANDA MACEDO SANTOS" 
+ cpf:  "04847080580" 
+ valor:  101.26 
+ 18: Object   
+ matricula:  "8174" 
+ nome:  "VANESSA FERREIRA DIAS BARBIERI" 
+ cpf:  "30974604895" 
+ valor:  136.04 
+ 19: Object   
+ matricula:  "6005" 
+ nome:  "HALINE SALGADO MARQUES" 
+ cpf:  "28731237886" 
+ valor:  8.23 
+ 20: Object   
+ matricula:  "8507" 
+ nome:  "GLEISE CRISTINA PRUDENCIANO" 
+ cpf:  "08219165804" 
+ valor:  18.83 
+ 21: Object   
+ matricula:  "5928" 
+ nome:  "SERGIO DE OLIVEIRA SALAS" 
+ cpf:  "24724772875" 
+ valor:  169.6 
+ 22: Object   
+ matricula:  "12446" 
+ nome:  "SILVANIA GONCALVES SANTOS" 
+ cpf:  "22089376864" 
+ valor:  1.41 
+ 23: Object   
+ matricula:  "8294" 
+ nome:  "EDERLI PELOSI FREIRE MONAY" 
+ cpf:  "08500816880" 
+ valor:  476.21 
+ 24: Object   
+ matricula:  "6396" 
+ nome:  "TEREZINHA APARECIDA PIRES BARBOSA TREVELINI" 
+ cpf:  "07695693820" 
+ valor:  737.27 
+ 25: Object   
+ matricula:  "9787" 
+ nome:  "MIDIAN SILVA SANTOS TEODORO" 
+ cpf:  "41198036869" 
+ valor:  14.35 
+ 26: Object   
+ matricula:  "11736" 
+ nome:  "SILVIA REGINA PINHO DE CARVALHO" 
+ cpf:  "08465549842" 
+ valor:  2.42 
+ numeroEvento:  "2023" 
+ descricaoEvento:  "13º - MEDIA DSR" 
+ tipoEvento:  "PROVENTO" 
+ 386: Object   
+ numeroOrganograma:  "11802004" 
+ descricaoOrganograma:  "Fundeb Especial" 
+ descricaoVinculoEmpregaticio:  "Celetista" 
+ provisaoBaixada:  false 
+ valor:  "279984.57" 
+ funcionarios: Array [199]  
+ 0: Object   
+ matricula:  "10103" 
+ nome:  "EDILAINE ROCHA MOURA BAPTISTA" 
+ cpf:  "12861826894" 
+ valor:  981.68 
+ 1: Object   
+ matricula:  "1088" 
+ nome:  "EVELY BEDORE" 
+ cpf:  "27839514871" 
+ valor:  1300.82 
+ 2: Object   
+ matricula:  "1093" 
+ nome:  "MARIA ROSELUCIA RODRIGUES DA SILVA" 
+ cpf:  "11313286800" 
+ valor:  1300.94 
+ 3: Object   
+ matricula:  "9301" 
+ nome:  "MICHELE LOPES PADILHA" 
+ cpf:  "33254488873" 
+ valor:  385.23 
+ 4: Object   
+ matricula:  "9317" 
+ nome:  "LETICIA COELHO RUIZ" 
+ cpf:  "21834515807" 
+ valor:  2539.14 
+ 5: Object   
+ matricula:  "8288" 
+ nome:  "ANA SILVIA DE PAIVA E SILVA" 
+ cpf:  "31679839810" 
+ valor:  2601.16 
+ 6: Object   
+ matricula:  "5800" 
+ nome:  "SANDRA APARECIDA MORA DA COSTA" 
+ cpf:  "17795269893" 
+ valor:  1300.82 
+ 7: Object   
+ matricula:  "10476" 
+ nome:  "IDINES SANTOS DE ANDRADE SILVA" 
+ cpf:  "18933415858" 
+ valor:  2615.29 
+ 8: Object   
+ matricula:  "4248" 
+ nome:  "CELIA REGINA CORGA DA SILVA ANGELO" 
+ cpf:  "02983250806" 
+ valor:  2824.67 
+ 9: Object   
+ matricula:  "8359" 
+ nome:  "VANESSA APARECIDA NUNES SEPULVEDA" 
+ cpf:  "30714544817" 
+ valor:  2774.56 
+ 10: Object   
+ matricula:  "6956" 
+ nome:  "JOSETI APARECIDA DA SILVA BORGES" 
+ cpf:  "63613530953" 
+ valor:  2615.29 
+ 11: Object   
+ matricula:  "4439" 
+ nome:  "AVANIL APARECIDA GONZAGA" 
+ cpf:  "10011417846" 
+ valor:  2909.43 
+ 12: Object   
+ matricula:  "7131" 
+ nome:  "FRANCIS CARLA FILIPE" 
+ cpf:  "26690727807" 
+ valor:  577.77 
+ 13: Object   
+ matricula:  "7210" 
+ nome:  "MARIA CRISTINA DA MATA" 
+ cpf:  "25564294882" 
+ valor:  2311.1 
+ 14: Object   
+ matricula:  "8115" 
+ nome:  "VANESSA FALCAO BARELLA" 
+ cpf:  "28815687858" 
+ valor:  2693.75 
+ 15: Object   
+ matricula:  "8129" 
+ nome:  "ANDREIA MEIRE CESARINO" 
+ cpf:  "85476137653" 
+ valor:  2525.39 
+ 16: Object   
+ matricula:  "6218" 
+ nome:  "ANGELINA MARCELIA LESSART BRANDAO" 
+ cpf:  "45749485749" 
+ valor:  2465.16 
+ 17: Object   
+ matricula:  "11484" 
+ nome:  "CRISTIAN DE SOUSA FREITAS" 
+ cpf:  "47015113821" 
+ valor:  924.56 
+ 18: Object   
+ matricula:  "10242" 
+ nome:  "LUIS CARLOS PINHEIRO" 
+ cpf:  "13415500870" 
+ valor:  2615.29 
+ 19: Object   
+ matricula:  "11197" 
+ nome:  "MARIA CECILIA REGIS CHAMA PUGA" 
+ cpf:  "12519150866" 
+ valor:  2465.16 
+ 20: Object   
+ matricula:  "9991" 
+ nome:  "MARCIO ROGERIO DE OLIVEIRA AZEVEDO" 
+ cpf:  "15868619803" 
+ valor:  1300.94 
+ 21: Object   
+ matricula:  "9389" 
+ nome:  "LILIAN BORGER KIMURA" 
+ cpf:  "03706031841" 
+ valor:  924.56 
+ 22: Object   
+ matricula:  "11291" 
+ nome:  "ANA SILVIA DE PAIVA E SILVA" 
+ cpf:  "31679839810" 
+ valor:  2311.1 
+ 23: Object   
+ matricula:  "11468" 
+ nome:  "MARIA NEIDE ROCHA TAVARES SOUTELO" 
+ cpf:  "07600749840" 
+ valor:  2465.16 
+ 24: Object   
+ matricula:  "11472" 
+ nome:  "ANDRESSA DE LIMA TEIXEIRA QUIRINO" 
+ cpf:  "42700870808" 
+ valor:  1192.52 
+ 25: Object   
+ matricula:  "10496" 
+ nome:  "AIRAM CRISTINE BORZANI DOS VALES" 
+ cpf:  "31205460896" 
+ valor:  2824.67 
+ 26: Object   
+ matricula:  "10646" 
+ nome:  "ROSANA APARECIDA MONTEOLIVA" 
+ cpf:  "07785432856" 
+ valor:  924.56 
+ 27: Object   
+ matricula:  "11747" 
+ nome:  "KARINA VELOSO DO VALLE" 
+ cpf:  "34942281830" 
+ valor:  1300.94 
+ 28: Object   
+ matricula:  "11746" 
+ nome:  "ESTEFANI GRAZIELI DE OLIVEIRA PEIXOTO" 
+ cpf:  "44509805810" 
+ valor:  1300.94 
+ 29: Object   
+ matricula:  "12002" 
+ nome:  "ADRIANA APARECIDA PIRES SERAFIM" 
+ cpf:  "40486928870" 
+ valor:  1300.94 
+ 30: Object   
+ matricula:  "12268" 
+ nome:  "MARCO AURELIO PAULINO SANTOS" 
+ cpf:  "40751709859" 
+ valor:  1300.94 
+ 31: Object   
+ matricula:  "12358" 
+ nome:  "ISABEL CRISTINA VERONEZI OLIVEIRA" 
+ cpf:  "28592954886" 
+ valor:  2311.1 
+ 32: Object   
+ matricula:  "12400" 
+ nome:  "LUCIMARA DOS SANTOS PEREIRA" 
+ cpf:  "33951201800" 
+ valor:  1300.94 
+ 33: Object   
+ matricula:  "12393" 
+ nome:  "KELLY RAMOS DE SOUSA NERIS" 
+ cpf:  "35434022858" 
+ valor:  2465.16 
+ 34: Object   
+ matricula:  "12415" 
+ nome:  "LETICIA MILENE BETTINI" 
+ cpf:  "52704689806" 
+ valor:  1300.94 
+ 35: Object   
+ matricula:  "11325" 
+ nome:  "THAIS FRANCIELE VALINHOS" 
+ cpf:  "43650316862" 
+ valor:  2465.16 
+ 36: Object   
+ matricula:  "11947" 
+ nome:  "SUZY DARLEM PRETTI" 
+ cpf:  "29742241805" 
+ valor:  1300.94 
+ 37: Object   
+ matricula:  "11675" 
+ nome:  "HENRIQUE AUGUSTO BORGES DE CASTRO" 
+ cpf:  "17206024840" 
+ valor:  1300.94 
+ 38: Object   
+ matricula:  "11680" 
+ nome:  "ALINE GOUVEIA VIANA KATO" 
+ cpf:  "22970830841" 
+ valor:  1300.94 
+ 39: Object   
+ matricula:  "11524" 
+ nome:  "CINTIA DE MORAIS COUTINHO" 
+ cpf:  "45242758864" 
+ valor:  1553.36 
+ 40: Object   
+ matricula:  "12603" 
+ nome:  "LUARA UZZO GARCIA" 
+ cpf:  "42940525897" 
+ valor:  1300.94 
+ 41: Object   
+ matricula:  "11713" 
+ nome:  "KELLY PALOMA RAMALHO MACHADO" 
+ cpf:  "44193133826" 
+ valor:  1300.94 
+ 42: Object   
+ matricula:  "11725" 
+ nome:  "EDNA CORREIA DE ASSIS" 
+ cpf:  "18186430814" 
+ valor:  1300.94 
+ 43: Object   
+ matricula:  "11459" 
+ nome:  "JOAO PAULO BATISTA GOMES" 
+ cpf:  "33678310850" 
+ valor:  1300.94 
+ 44: Object   
+ matricula:  "11724" 
+ nome:  "MARTA DE CARVALHO" 
+ cpf:  "77325494815" 
+ valor:  2465.16 
+ 45: Object   
+ matricula:  "11743" 
+ nome:  "ITALO GIULIANO BARSAN" 
+ cpf:  "48480520841" 
+ valor:  1300.94 
+ 46: Object   
+ matricula:  "12054" 
+ nome:  "FRANCIELE MARQUES LIMA" 
+ cpf:  "07889362986" 
+ valor:  1040.58 
+ 47: Object   
+ matricula:  "11985" 
+ nome:  "MARCIA APARECIDA DE ALMEIDA" 
+ cpf:  "31364670860" 
+ valor:  1300.94 
+ 48: Object   
+ matricula:  "11990" 
+ nome:  "ARIEL FERNANDO COLLI DO VALLE" 
+ cpf:  "38700683884" 
+ valor:  1300.94 
+ 49: Object   
+ matricula:  "11501" 
+ nome:  "JESSICA DE OLIVEIRA XAVIER" 
+ cpf:  "40573883890" 
+ valor:  924.56 
+ 50: Object   
+ matricula:  "12231" 
+ nome:  "LAYZA MARCELA SILVEIRA PEREIRA" 
+ cpf:  "46468292824" 
+ valor:  1300.94 
+ 51: Object   
+ matricula:  "11998" 
+ nome:  "REGINA DE CAMARGO CORREA" 
+ cpf:  "29882873847" 
+ valor:  1300.94 
+ 52: Object   
+ matricula:  "11991" 
+ nome:  "CLAUDIO TERRANA" 
+ cpf:  "07643138869" 
+ valor:  1300.94 
+ 53: Object   
+ matricula:  "12265" 
+ nome:  "BEATRIZ FREITAS VALLIM" 
+ cpf:  "44148417802" 
+ valor:  1192.52 
+ 54: Object   
+ matricula:  "12271" 
+ nome:  "FRANCIS TORQUATO BORLINO DOS SANTOS" 
+ cpf:  "26983462807" 
+ valor:  1300.94 
+ 55: Object   
+ matricula:  "12005" 
+ nome:  "LUIZA HELENA CASSIMIRO" 
+ cpf:  "18776358801" 
+ valor:  1300.94 
+ 56: Object   
+ matricula:  "12025" 
+ nome:  "DANIELA INGLES NOGUEIRA" 
+ cpf:  "32875075837" 
+ valor:  433.64 
+ 57: Object   
+ matricula:  "11707" 
+ nome:  "LUCAS FERREIRA DE OLIVEIRA" 
+ cpf:  "41182688845" 
+ valor:  1300.94 
+ 58: Object   
+ matricula:  "11894" 
+ nome:  "VERONICA MOREIRA CONCEICAO COUTO" 
+ cpf:  "28005679882" 
+ valor:  1300.94 
+ 59: Object   
+ matricula:  "11804" 
+ nome:  "SANDRA EIKO YOSHIDA SASAHARA" 
+ cpf:  "25819111826" 
+ valor:  1300.94 
+ 60: Object   
+ matricula:  "11813" 
+ nome:  "NATALIA DOS SANTOS HISAOKA" 
+ cpf:  "38385547878" 
+ valor:  1300.94 
+ 61: Object   
+ matricula:  "12266" 
+ nome:  "ELIANE MARIA BARBOSA" 
+ cpf:  "24887302894" 
+ valor:  1300.94 
+ 62: Object   
+ matricula:  "12269" 
+ nome:  "MARILZA SATHLER DE SOUZA" 
+ cpf:  "26730347813" 
+ valor:  2311.1 
+ 63: Object   
+ matricula:  "11552" 
+ nome:  "ROSA HELENA LOPES" 
+ cpf:  "26658326827" 
+ valor:  924.56 
+ 64: Object   
+ matricula:  "131690" 
+ nome:  "GIOVANA SANTOS DOS REIS" 
+ cpf:  "44752442850" 
+ valor:  539.33 
+ 65: Object   
+ matricula:  "12442" 
+ nome:  "VALERIA CRISTINA BIANCHI" 
+ cpf:  "26910869842" 
+ valor:  924.56 
+ 66: Object   
+ matricula:  "12452" 
+ nome:  "RAVI XAVIER EUGENIO LOBO/ROSANA XAVIER EUGENIO" 
+ cpf:  "39993650803" 
+ valor:  1084.11 
+ 67: Object   
+ matricula:  "12413" 
+ nome:  "GLAUCIA ALVES DE SIQUEIRA" 
+ cpf:  "35151830864" 
+ valor:  1300.94 
+ 68: Object   
+ matricula:  "12419" 
+ nome:  "ADRIANA ALITZA SANTOS ROCHA" 
+ cpf:  "27461962809" 
+ valor:  924.56 
+ 69: Object   
+ matricula:  "12423" 
+ nome:  "CLARETE DE LIMA" 
+ cpf:  "10793547865" 
+ valor:  924.56 
+ 70: Object   
+ matricula:  "12417" 
+ nome:  "NIDIA MARIA DE OLIVEIRA MENDES" 
+ cpf:  "51721178813" 
+ valor:  1300.94 
+ 71: Object   
+ matricula:  "12431" 
+ nome:  "JOSEFA BISPO DA COSTA RAMOS" 
+ cpf:  "78770602468" 
+ valor:  924.56 
+ 72: Object   
+ matricula:  "12416" 
+ nome:  "MICHELLE ELISA SAITO FAGUNDES PINHEIRO" 
+ cpf:  "24688807813" 
+ valor:  1300.94 
+ 73: Object   
+ matricula:  "131865" 
+ nome:  "IDIARA SANTOS DE JESUS" 
+ cpf:  "16588217773" 
+ valor:  433.64 
+ 74: Object   
+ matricula:  "11712" 
+ nome:  "BIANCA APARECIDA GOIS SOARES" 
+ cpf:  "44321364809" 
+ valor:  1300.94 
+ 75: Object   
+ matricula:  "11944" 
+ nome:  "KAREN CRISTIANE DO PRADO CONELHEIRO" 
+ cpf:  "36600177870" 
+ valor:  1300.94 
+ 76: Object   
+ matricula:  "11709" 
+ nome:  "MARCIA DE SOUZA MENDES" 
+ cpf:  "33991417855" 
+ valor:  1300.94 
+ 77: Object   
+ matricula:  "131708" 
+ nome:  "DEBORA VIEIRA DA SILVA" 
+ cpf:  "46511586847" 
+ valor:  758.88 
+ 78: Object   
+ matricula:  "131728" 
+ nome:  "ROSELENE DOS SANTOS" 
+ cpf:  "32818853818" 
+ valor:  758.88 
+ 79: Object   
+ matricula:  "12508" 
+ nome:  "NICOLY EDUARDA SANTOS FARIA" 
+ cpf:  "36827225801" 
+ valor:  924.56 
+ 80: Object   
+ matricula:  "12494" 
+ nome:  "MARILAN RIBEIRO DE OLIVEIRA ALBUQUERQUE" 
+ cpf:  "13472555831" 
+ valor:  2465.16 
+ 81: Object   
+ matricula:  "12369" 
+ nome:  "FERNANDA DE MORAES FERREIRA MARIANO" 
+ cpf:  "32855968801" 
+ valor:  1300.94 
+ 82: Object   
+ matricula:  "11942" 
+ nome:  "CLAUDIA LUCIANA MAIA MACHADO" 
+ cpf:  "12056172801" 
+ valor:  1300.94 
+ 83: Object   
+ matricula:  "11916" 
+ nome:  "KARLA SANAVIO DA SILVA" 
+ cpf:  "61487370350" 
+ valor:  1300.94 
+ 84: Object   
+ matricula:  "12327" 
+ nome:  "LEONARDO LUCIANO MARQUES DA SILVA" 
+ cpf:  "48729447801" 
+ valor:  1300.94 
+ 85: Object   
+ matricula:  "12441" 
+ nome:  "SIBELI APARECIDA OLIVEIRA SOLDI MUNIZ" 
+ cpf:  "33366114827" 
+ valor:  924.56 
+ 86: Object   
+ matricula:  "12553" 
+ nome:  "EMANUELA MOREIRA DE QUEIROZ" 
+ cpf:  "01051812348" 
+ valor:  462.28 
+ 87: Object   
+ matricula:  "12236" 
+ nome:  "GABRIELA CRISTINA BARBOSA" 
+ cpf:  "36892454860" 
+ valor:  1300.94 
+ 88: Object   
+ matricula:  "12238" 
+ nome:  "ERICK RAMON REIS VIRGINIO DOS SANTOS" 
+ cpf:  "49213529848" 
+ valor:  1300.94 
+ 89: Object   
+ matricula:  "12259" 
+ nome:  "PAMELA ISABEL RUBIO RUBIO" 
+ cpf:  "19572222805" 
+ valor:  1300.94 
+ 90: Object   
+ matricula:  "131646" 
+ nome:  "GIOVANNA EMANUELY PASSOS" 
+ cpf:  "55957590894" 
+ valor:  975.7 
+ 91: Object   
+ matricula:  "131667" 
+ nome:  "FRANCISLAINE DE OLIVEIRA FROSSARD BRUM" 
+ cpf:  "09094641704" 
+ valor:  867.29 
+ 92: Object   
+ matricula:  "131668" 
+ nome:  "ROSE MERY NUNES DE SOUZA" 
+ cpf:  "34921856818" 
+ valor:  867.29 
+ 93: Object   
+ matricula:  "131642" 
+ nome:  "ANDRE LUIS PRETO SILVA" 
+ cpf:  "49037739814" 
+ valor:  975.7 
+ 94: Object   
+ matricula:  "12298" 
+ nome:  "BEATRIZ FERNANDES GISMENE" 
+ cpf:  "37473776886" 
+ valor:  1300.94 
+ 95: Object   
+ matricula:  "131910" 
+ nome:  "EMMANUELLE ROBERTA DA SILVA" 
+ cpf:  "44247510827" 
+ valor:  616.29 
+ 96: Object   
+ matricula:  "131911" 
+ nome:  "BEATRIZ DE OLIVEIRA TEIXEIRA" 
+ cpf:  "44989499867" 
+ valor:  616.29 
+ 97: Object   
+ matricula:  "131917" 
+ nome:  "ROBERTA GOMES COELHO DA CUNHA" 
+ cpf:  "29392060823" 
+ valor:  616.29 
+ 98: Object   
+ matricula:  "131894" 
+ nome:  "ANDERSON DA ROCHA" 
+ cpf:  "24986736876" 
+ valor:  325.23 
+ 99: Object   
+ matricula:  "131912" 
+ nome:  "JULIANA DE ANDRADE SILVA PEDROSO" 
+ cpf:  "42104611806" 
+ valor:  616.29 
+ 100: Object   
+ matricula:  "12209" 
+ nome:  "MARCO ANTONIO BATISTA RAMOS" 
+ cpf:  "26879188818" 
+ valor:  2465.16 
+ 101: Object   
+ matricula:  "12195" 
+ nome:  "MARIA DE LOURDES DA SILVA" 
+ cpf:  "24782065876" 
+ valor:  2465.16 
+ 102: Object   
+ matricula:  "12225" 
+ nome:  "KATIA CRISTINA MACHADO RIBEIRO" 
+ cpf:  "45123553835" 
+ valor:  1300.94 
+ 103: Object   
+ matricula:  "12221" 
+ nome:  "RAFAEL SILVA BATISTA DOS SANTOS" 
+ cpf:  "36185516810" 
+ valor:  1300.94 
+ 104: Object   
+ matricula:  "12226" 
+ nome:  "SERGIO AUGUSTO GEREMIAS MARQUES" 
+ cpf:  "27257192839" 
+ valor:  1300.94 
+ 105: Object   
+ matricula:  "12215" 
+ nome:  "THAIS FERNANDA DE LIMA BELVIZZO" 
+ cpf:  "43467092810" 
+ valor:  1300.94 
+ 106: Object   
+ matricula:  "131749" 
+ nome:  "TIAGO HENRIQUE MORAES SANTOS" 
+ cpf:  "42331446881" 
+ valor:  650.47 
+ 107: Object   
+ matricula:  "12878" 
+ nome:  "FRANCISCO FIDELES ALVES JUNIOR" 
+ cpf:  "38729554896" 
+ valor:  1192.52 
+ 108: Object   
+ matricula:  "12884" 
+ nome:  "ESTER VIEIRA CUNHA MARTINS" 
+ cpf:  "35782135867" 
+ valor:  1192.52 
+ 109: Object   
+ matricula:  "131835" 
+ nome:  "PABLO HENRIQUE SILVEIRA" 
+ cpf:  "48291235830" 
+ valor:  308.19 
+ 110: Object   
+ matricula:  "131755" 
+ nome:  "JENIFFER SILVEIRA CHAGAS" 
+ cpf:  "56457334873" 
+ valor:  650.47 
+ 111: Object   
+ matricula:  "131758" 
+ nome:  "MIRIAM DA SILVA ASSIS" 
+ cpf:  "92691870200" 
+ valor:  650.47 
+ 112: Object   
+ matricula:  "131761" 
+ nome:  "SUSANA MARIA DOS SANTOS" 
+ cpf:  "29121584869" 
+ valor:  462.28 
+ 113: Object   
+ matricula:  "131757" 
+ nome:  "LETICIA LEITE BATISTA NASCIMENTO" 
+ cpf:  "44665031843" 
+ valor:  1271.1 
+ 114: Object   
+ matricula:  "11960" 
+ nome:  "RAQUEL RODRIGUES GRACIA" 
+ cpf:  "82248850115" 
+ valor:  1300.94 
+ 115: Object   
+ matricula:  "11952" 
+ nome:  "LUCIANE APARECIDA DE FREITAS BRAJON" 
+ cpf:  "25359911875" 
+ valor:  1040.58 
+ 116: Object   
+ matricula:  "12983" 
+ nome:  "ELAINE FERREIRA DE SOUZA" 
+ cpf:  "15556001740" 
+ valor:  975.7 
+ 117: Object   
+ matricula:  "131619" 
+ nome:  "SUELI DO PRADO" 
+ cpf:  "15465973870" 
+ valor:  693.42 
+ 118: Object   
+ matricula:  "11893" 
+ nome:  "ANDRESSA BARBOSA DA SILVA" 
+ cpf:  "47944671841" 
+ valor:  1300.94 
+ 119: Object   
+ matricula:  "12481" 
+ nome:  "REBECA AUGUSTO GERALDO DOS SANTOS" 
+ cpf:  "42414673850" 
+ valor:  2311.1 
+ 120: Object   
+ matricula:  "12477" 
+ nome:  "GIOVANA DE MORAES" 
+ cpf:  "44832407813" 
+ valor:  1300.94 
+ 121: Object   
+ matricula:  "131694" 
+ nome:  "DANIELLI MIRANDA DA SILVA" 
+ cpf:  "49098507832" 
+ valor:  758.88 
+ 122: Object   
+ matricula:  "131689" 
+ nome:  "MARIA APARECIDA DA SILVA" 
+ cpf:  "40946245894" 
+ valor:  539.33 
+ 123: Object   
+ matricula:  "131693" 
+ nome:  "FRANCISCA ODILANIA DE OLIVEIRA SILVA" 
+ cpf:  "00072445335" 
+ valor:  758.88 
+ 124: Object   
+ matricula:  "131698" 
+ nome:  "MARIANA APARECIDA DA SILVA" 
+ cpf:  "34452461816" 
+ valor:  539.33 
+ 125: Object   
+ matricula:  "131810" 
+ nome:  "EDNA PEREIRA LIMA" 
+ cpf:  "27548215894" 
+ valor:  385.23 
+ 126: Object   
+ matricula:  "131805" 
+ nome:  "BEATRIZ DE CASSIA MARQUES" 
+ cpf:  "41806046806" 
+ valor:  385.23 
+ 127: Object   
+ matricula:  "131795" 
+ nome:  "SIMONE GRAZIELA PALINI" 
+ cpf:  "30413431851" 
+ valor:  650.47 
+ 128: Object   
+ matricula:  "12324" 
+ nome:  "ISABELLE LUIZ GARCIA" 
+ cpf:  "40393353842" 
+ valor:  1300.94 
+ 129: Object   
+ matricula:  "12336" 
+ nome:  "CLEBER LUCAS SANTANA BELO" 
+ cpf:  "17178057793" 
+ valor:  1300.94 
+ 130: Object   
+ matricula:  "12979" 
+ nome:  "ENIO RANDI" 
+ cpf:  "10715752600" 
+ valor:  693.42 
+ 131: Object   
+ matricula:  "12981" 
+ nome:  "JACQUELINE AMELIA LEITE" 
+ cpf:  "18930655882" 
+ valor:  693.42 
+ 132: Object   
+ matricula:  "12540" 
+ nome:  "TEREZA CRISTINA DOS SANTOS TELLES" 
+ cpf:  "46981340801" 
+ valor:  924.56 
+ 133: Object   
+ matricula:  "12542" 
+ nome:  "GABRIEL HENRIQUE AZEVEDO GONCALVES" 
+ cpf:  "46705097809" 
+ valor:  1300.94 
+ 134: Object   
+ matricula:  "12543" 
+ nome:  "MARCIA CRISTINA MOURA SOUZA ALVES" 
+ cpf:  "13227208784" 
+ valor:  1300.94 
+ 135: Object   
+ matricula:  "12539" 
+ nome:  "SANDRA REGINA GODOY BARBOSA" 
+ cpf:  "18193694805" 
+ valor:  924.56 
+ 136: Object   
+ matricula:  "12954" 
+ nome:  "GUSTAVO ZINI FERNANDES COSTA" 
+ cpf:  "47877918852" 
+ valor:  975.7 
+ 137: Object   
+ matricula:  "12955" 
+ nome:  "ELIETE APARECIDA DIAS OLIVEIRA" 
+ cpf:  "25459431859" 
+ valor:  975.7 
+ 138: Object   
+ matricula:  "12945" 
+ nome:  "VERA BIAZETTO" 
+ cpf:  "07786428879" 
+ valor:  693.42 
+ 139: Object   
+ matricula:  "12534" 
+ nome:  "ENZO ALMEIDA BRILHA SANTOS" 
+ cpf:  "51977188893" 
+ valor:  924.56 
+ 140: Object   
+ matricula:  "12521" 
+ nome:  "ALINE LEITE MARQUES MENEZES" 
+ cpf:  "53336766826" 
+ valor:  924.56 
+ 141: Object   
+ matricula:  "12512" 
+ nome:  "ANDRE RICARDO CAVALCANTE SILVA" 
+ cpf:  "51528849841" 
+ valor:  924.56 
+ 142: Object   
+ matricula:  "12523" 
+ nome:  "ALESSANDRA SANTOS FARIAS" 
+ cpf:  "27333181871" 
+ valor:  924.56 
+ 143: Object   
+ matricula:  "12533" 
+ nome:  "BEATRIZ LUNA LENOTTI" 
+ cpf:  "51708160817" 
+ valor:  924.56 
+ 144: Object   
+ matricula:  "12577" 
+ nome:  "BRENDA KAROLYNE SANTOS DA COSTA" 
+ cpf:  "49904412812" 
+ valor:  924.56 
+ 145: Object   
+ matricula:  "12516" 
+ nome:  "AMANDA MACEDO SANTOS" 
+ cpf:  "04847080580" 
+ valor:  2465.16 
+ 146: Object   
+ matricula:  "11829" 
+ nome:  "ALINE MAIARA SILVA DI SARNO" 
+ cpf:  "38492735805" 
+ valor:  1300.94 
+ 147: Object   
+ matricula:  "9788" 
+ nome:  "DANIELA APARECIDA MANOEL CAETANO" 
+ cpf:  "27687010841" 
+ valor:  2043.2 
+ 148: Object   
+ matricula:  "11703" 
+ nome:  "RAFAEL YOITI OJIMA" 
+ cpf:  "22964067856" 
+ valor:  1300.94 
+ 149: Object   
+ matricula:  "11982" 
+ nome:  "GABRIELA MOREIRA DE SOUSA CARVALHO" 
+ cpf:  "43872585860" 
+ valor:  1300.94 
+ 150: Object   
+ matricula:  "8174" 
+ nome:  "VANESSA FERREIRA DIAS BARBIERI" 
+ cpf:  "30974604895" 
+ valor:  2774.56 
+ 151: Object   
+ matricula:  "1330" 
+ nome:  "ELISABETH BENEDITA TEREZA VERGARA BARBOSA" 
+ cpf:  "07785439869" 
+ valor:  1300.82 
+ 152: Object   
+ matricula:  "8595" 
+ nome:  "MONICA MOREIRA TAVARES" 
+ cpf:  "09073497817" 
+ valor:  2693.75 
+ 153: Object   
+ matricula:  "1619" 
+ nome:  "RITA DE CASSIA SCANFELA" 
+ cpf:  "18620169840" 
+ valor:  2615.29 
+ 154: Object   
+ matricula:  "6005" 
+ nome:  "HALINE SALGADO MARQUES" 
+ cpf:  "28731237886" 
+ valor:  1300.82 
+ 155: Object   
+ matricula:  "6682" 
+ nome:  "MIRELLA RAIKA DE NOVAES GONZAGA COCO" 
+ cpf:  "03738216626" 
+ valor:  2453.92 
+ 156: Object   
+ matricula:  "8507" 
+ nome:  "GLEISE CRISTINA PRUDENCIANO" 
+ cpf:  "08219165804" 
+ valor:  2774.56 
+ 157: Object   
+ matricula:  "6891" 
+ nome:  "GILCELENE DE FATIMA MARTINS SOUZA" 
+ cpf:  "13212658835" 
+ valor:  1531.11 
+ 158: Object   
+ matricula:  "5928" 
+ nome:  "SERGIO DE OLIVEIRA SALAS" 
+ cpf:  "24724772875" 
+ valor:  2539.14 
+ 159: Object   
+ matricula:  "11748" 
+ nome:  "RITA DE CASSIA FRANCO" 
+ cpf:  "04415776604" 
+ valor:  1300.94 
+ 160: Object   
+ matricula:  "12273" 
+ nome:  "LARISSA CONCEICAO CAMPOS SILVA" 
+ cpf:  "47148916852" 
+ valor:  1300.94 
+ 161: Object   
+ matricula:  "11379" 
+ nome:  "VANESSA JACOB SUAIDE" 
+ cpf:  "24586490845" 
+ valor:  2465.16 
+ 162: Object   
+ matricula:  "11588" 
+ nome:  "CARLA DOMINGUES MARIN DIAS" 
+ cpf:  "26455532813" 
+ valor:  385.23 
+ 163: Object   
+ matricula:  "12446" 
+ nome:  "SILVANIA GONCALVES SANTOS" 
+ cpf:  "22089376864" 
+ valor:  872.22 
+ 164: Object   
+ matricula:  "5741" 
+ nome:  "VIVIAN CASTELO BRANCO GALVAO" 
+ cpf:  "15588821890" 
+ valor:  2539.14 
+ 165: Object   
+ matricula:  "8294" 
+ nome:  "EDERLI PELOSI FREIRE MONAY" 
+ cpf:  "08500816880" 
+ valor:  2774.56 
+ 166: Object   
+ matricula:  "12275" 
+ nome:  "HELENA MARIA FERNANDES DORATIOTTO" 
+ cpf:  "66666210697" 
+ valor:  1300.94 
+ 167: Object   
+ matricula:  "6396" 
+ nome:  "TEREZINHA APARECIDA PIRES BARBOSA TREVELINI" 
+ cpf:  "07695693820" 
+ valor:  2539.14 
+ 168: Object   
+ matricula:  "12918" 
+ nome:  "ANA PAULA TELES" 
+ cpf:  "38092983879" 
+ valor:  693.42 
+ 169: Object   
+ matricula:  "11869" 
+ nome:  "PAULA LEONARDI DE LIMA" 
+ cpf:  "32411745818" 
+ valor:  1300.94 
+ 170: Object   
+ matricula:  "9787" 
+ nome:  "MIDIAN SILVA SANTOS TEODORO" 
+ cpf:  "41198036869" 
+ valor:  2774.56 
+ 171: Object   
+ matricula:  "9016" 
+ nome:  "PRISCILA DE MORAES DOMINGUES" 
+ cpf:  "12057074846" 
+ valor:  2615.29 
+ 172: Object   
+ matricula:  "12218" 
+ nome:  "IRENE ILARIO DE LIMA REGIS" 
+ cpf:  "27889273800" 
+ valor:  1300.94 
+ 173: Object   
+ matricula:  "11711" 
+ nome:  "ALINE LIZANDRA NASCIMENTO" 
+ cpf:  "10850245630" 
+ valor:  1300.94 
+ 174: Object   
+ matricula:  "131695" 
+ nome:  "ANGELA DE CASSIA SILVA" 
+ cpf:  "30421959886" 
+ valor:  758.88 
+ 175: Object   
+ matricula:  "11868" 
+ nome:  "ANA CRISTINA ALVES MARCONDES" 
+ cpf:  "29556179895" 
+ valor:  1300.94 
+ 176: Object   
+ matricula:  "9930" 
+ nome:  "MARIA HELENA MADEIRA" 
+ cpf:  "24920582803" 
+ valor:  1300.94 
+ 177: Object   
+ matricula:  "11512" 
+ nome:  "VALERIA CRISTINA DIAS PEREIRA" 
+ cpf:  "33232028802" 
+ valor:  1300.94 
+ 178: Object   
+ matricula:  "11498" 
+ nome:  "CARMEM JOSE PARIZ MACHADO" 
+ cpf:  "34444000805" 
+ valor:  2465.16 
+ 179: Object   
+ matricula:  "131785" 
+ nome:  "SILVANIA COSTA FRANCA" 
+ cpf:  "27641138896" 
+ valor:  462.28 
+ 180: Object   
+ matricula:  "9253" 
+ nome:  "ADRIANA FERREIRA DA SILVA MARTINS" 
+ cpf:  "24797323809" 
+ valor:  2395.41 
+ 181: Object   
+ matricula:  "6627" 
+ nome:  "MARIA PAULA NASCIMENTO WADA" 
+ cpf:  "08164788805" 
+ valor:  2615.29 
+ 182: Object   
+ matricula:  "12414" 
+ nome:  "APOLLO BETTINI/LARISSA MELINA BETTINI" 
+ cpf:  "52704658846" 
+ valor:  1300.94 
+ 183: Object   
+ matricula:  "8902" 
+ nome:  "JACKELINE DE PAULO GIROTO" 
+ cpf:  "18083303828" 
+ valor:  2615.29 
+ 184: Object   
+ matricula:  "11963" 
+ nome:  "CICERA ROSILANEA DE OLIVEIRA VIANA" 
+ cpf:  "02262588317" 
+ valor:  1300.94 
+ 185: Object   
+ matricula:  "12427" 
+ nome:  "ELISANGELA ROSINEI FONTES" 
+ cpf:  "27010450889" 
+ valor:  924.56 
+ 186: Object   
+ matricula:  "11736" 
+ nome:  "SILVIA REGINA PINHO DE CARVALHO" 
+ cpf:  "08465549842" 
+ valor:  2465.16 
+ 187: Object   
+ matricula:  "11958" 
+ nome:  "MARIANA TATSUE NISHI DE MORAIS" 
+ cpf:  "39309139846" 
+ valor:  1227.3 
+ 188: Object   
+ matricula:  "11999" 
+ nome:  "SANDRA IZABEL FERREIRA CUCHINIERK" 
+ cpf:  "74683128691" 
+ valor:  1300.94 
+ 189: Object   
+ matricula:  "131723" 
+ nome:  "ELZA FERREIRA DE BRITO" 
+ cpf:  "08420063894" 
+ valor:  539.33 
+ 190: Object   
+ matricula:  "12558" 
+ nome:  "FRANCIANE APARECIDA SANTOS DE SOUZA MUNIZ" 
+ cpf:  "34692515848" 
+ valor:  1300.94 
+ 191: Object   
+ matricula:  "9259" 
+ nome:  "ROSIMAR RIBEIRO DINIZ" 
+ cpf:  "30508808804" 
+ valor:  2615.29 
+ 192: Object   
+ matricula:  "12418" 
+ nome:  "SIMONE JESUS SILVA RAVOS" 
+ cpf:  "35107361846" 
+ valor:  975.7 
+ 193: Object   
+ matricula:  "8326" 
+ nome:  "MARCELA APARECIDA MATIAS PEREIRA SILVA" 
+ cpf:  "32175494810" 
+ valor:  2380.44 
+ 194: Object   
+ matricula:  "7098" 
+ nome:  "ELIETE MARIA DOS SANTOS" 
+ cpf:  "03533567869" 
+ valor:  2115.95 
+ 195: Object   
+ matricula:  "11730" 
+ nome:  "LAURA MARIA DUARTE PEINADO" 
+ cpf:  "39789026803" 
+ valor:  1227.3 
+ 196: Object   
+ matricula:  "571" 
+ nome:  "ELENICE DORATIOTTO BARTOLOMEI" 
+ cpf:  "12833457812" 
+ valor:  1227.18 
+ 197: Object   
+ matricula:  "12323" 
+ nome:  "DOUGLAS HENRIQUE DOS SANTOS PESSOA" 
+ cpf:  "46479409850" 
+ valor:  1300.94 
+ 198: Object   
+ matricula:  "618" 
+ nome:  "TEREZINHA DE JESUS ARANTES BARBOSA" 
+ cpf:  "17796958889" 
+ valor:  1300.82 
+ numeroEvento:  "8340" 
+ descricaoEvento:  "DESCONTO ADIANTAMENTO 13º " 
+ tipoEvento:  "DESCONTO" 
+ 387: Object   
+ numeroOrganograma:  "11802004" 
+ descricaoOrganograma:  "Fundeb Especial" 
+ descricaoVinculoEmpregaticio:  "Celetista" 
+ provisaoBaixada:  false 
+ valor:  "70568.29" 
+ funcionarios: Array [107]  
+ 0: Object   
+ matricula:  "10103" 
+ nome:  "EDILAINE ROCHA MOURA BAPTISTA" 
+ cpf:  "12861826894" 
+ valor:  249.74 
+ 1: Object   
+ matricula:  "1088" 
+ nome:  "EVELY BEDORE" 
+ cpf:  "27839514871" 
+ valor:  1325.79 
+ 2: Object   
+ matricula:  "1093" 
+ nome:  "MARIA ROSELUCIA RODRIGUES DA SILVA" 
+ cpf:  "11313286800" 
+ valor:  1235.89 
+ 3: Object   
+ matricula:  "9301" 
+ nome:  "MICHELE LOPES PADILHA" 
+ cpf:  "33254488873" 
+ valor:  184.91 
+ 4: Object   
+ matricula:  "9317" 
+ nome:  "LETICIA COELHO RUIZ" 
+ cpf:  "21834515807" 
+ valor:  812.52 
+ 5: Object   
+ matricula:  "8288" 
+ nome:  "ANA SILVIA DE PAIVA E SILVA" 
+ cpf:  "31679839810" 
+ valor:  1248.55 
+ 6: Object   
+ matricula:  "5800" 
+ nome:  "SANDRA APARECIDA MORA DA COSTA" 
+ cpf:  "17795269893" 
+ valor:  1247.74 
+ 7: Object   
+ matricula:  "10476" 
+ nome:  "IDINES SANTOS DE ANDRADE SILVA" 
+ cpf:  "18933415858" 
+ valor:  418.45 
+ 8: Object   
+ matricula:  "4248" 
+ nome:  "CELIA REGINA CORGA DA SILVA ANGELO" 
+ cpf:  "02983250806" 
+ valor:  3616.14 
+ 9: Object   
+ matricula:  "8359" 
+ nome:  "VANESSA APARECIDA NUNES SEPULVEDA" 
+ cpf:  "30714544817" 
+ valor:  1331.79 
+ 10: Object   
+ matricula:  "6956" 
+ nome:  "JOSETI APARECIDA DA SILVA BORGES" 
+ cpf:  "63613530953" 
+ valor:  1883.01 
+ 11: Object   
+ matricula:  "4439" 
+ nome:  "AVANIL APARECIDA GONZAGA" 
+ cpf:  "10011417846" 
+ valor:  3526.22 
+ 12: Object   
+ matricula:  "7131" 
+ nome:  "FRANCIS CARLA FILIPE" 
+ cpf:  "26690727807" 
+ valor:  277.33 
+ 13: Object   
+ matricula:  "7210" 
+ nome:  "MARIA CRISTINA DA MATA" 
+ cpf:  "25564294882" 
+ valor:  2218.65 
+ 14: Object   
+ matricula:  "8115" 
+ nome:  "VANESSA FALCAO BARELLA" 
+ cpf:  "28815687858" 
+ valor:  1293 
+ 15: Object   
+ matricula:  "8129" 
+ nome:  "ANDREIA MEIRE CESARINO" 
+ cpf:  "85476137653" 
+ valor:  1212.19 
+ 16: Object   
+ matricula:  "6218" 
+ nome:  "ANGELINA MARCELIA LESSART BRANDAO" 
+ cpf:  "45749485749" 
+ valor:  2169.35 
+ 17: Object   
+ matricula:  "11484" 
+ nome:  "CRISTIAN DE SOUSA FREITAS" 
+ cpf:  "47015113821" 
+ valor:  73.96 
+ 18: Object   
+ matricula:  "10242" 
+ nome:  "LUIS CARLOS PINHEIRO" 
+ cpf:  "13415500870" 
+ valor:  627.67 
+ 19: Object   
+ matricula:  "11197" 
+ nome:  "MARIA CECILIA REGIS CHAMA PUGA" 
+ cpf:  "12519150866" 
+ valor:  197.21 
+ 20: Object   
+ matricula:  "9991" 
+ nome:  "MARCIO ROGERIO DE OLIVEIRA AZEVEDO" 
+ cpf:  "15868619803" 
+ valor:  312.22 
+ 21: Object   
+ matricula:  "9389" 
+ nome:  "LILIAN BORGER KIMURA" 
+ cpf:  "03706031841" 
+ valor:  295.86 
+ 22: Object   
+ matricula:  "11291" 
+ nome:  "ANA SILVIA DE PAIVA E SILVA" 
+ cpf:  "31679839810" 
+ valor:  184.89 
+ 23: Object   
+ matricula:  "11468" 
+ nome:  "MARIA NEIDE ROCHA TAVARES SOUTELO" 
+ cpf:  "07600749840" 
+ valor:  197.21 
+ 24: Object   
+ matricula:  "11472" 
+ nome:  "ANDRESSA DE LIMA TEIXEIRA QUIRINO" 
+ cpf:  "42700870808" 
+ valor:  190.8 
+ 25: Object   
+ matricula:  "10496" 
+ nome:  "AIRAM CRISTINE BORZANI DOS VALES" 
+ cpf:  "31205460896" 
+ valor:  451.95 
+ 26: Object   
+ matricula:  "10646" 
+ nome:  "ROSANA APARECIDA MONTEOLIVA" 
+ cpf:  "07785432856" 
+ valor:  147.93 
+ 27: Object   
+ matricula:  "11747" 
+ nome:  "KARINA VELOSO DO VALLE" 
+ cpf:  "34942281830" 
+ valor:  104.07 
+ 28: Object   
+ matricula:  "11746" 
+ nome:  "ESTEFANI GRAZIELI DE OLIVEIRA PEIXOTO" 
+ cpf:  "44509805810" 
+ valor:  104.07 
+ 29: Object   
+ matricula:  "12002" 
+ nome:  "ADRIANA APARECIDA PIRES SERAFIM" 
+ cpf:  "40486928870" 
+ valor:  104.07 
+ 30: Object   
+ matricula:  "11325" 
+ nome:  "THAIS FRANCIELE VALINHOS" 
+ cpf:  "43650316862" 
+ valor:  197.21 
+ 31: Object   
+ matricula:  "11947" 
+ nome:  "SUZY DARLEM PRETTI" 
+ cpf:  "29742241805" 
+ valor:  104.07 
+ 32: Object   
+ matricula:  "11675" 
+ nome:  "HENRIQUE AUGUSTO BORGES DE CASTRO" 
+ cpf:  "17206024840" 
+ valor:  104.07 
+ 33: Object   
+ matricula:  "11680" 
+ nome:  "ALINE GOUVEIA VIANA KATO" 
+ cpf:  "22970830841" 
+ valor:  104.07 
+ 34: Object   
+ matricula:  "11524" 
+ nome:  "CINTIA DE MORAIS COUTINHO" 
+ cpf:  "45242758864" 
+ valor:  124.27 
+ 35: Object   
+ matricula:  "11713" 
+ nome:  "KELLY PALOMA RAMALHO MACHADO" 
+ cpf:  "44193133826" 
+ valor:  208.15 
+ 36: Object   
+ matricula:  "11725" 
+ nome:  "EDNA CORREIA DE ASSIS" 
+ cpf:  "18186430814" 
+ valor:  104.07 
+ 37: Object   
+ matricula:  "11459" 
+ nome:  "JOAO PAULO BATISTA GOMES" 
+ cpf:  "33678310850" 
+ valor:  104.07 
+ 38: Object   
+ matricula:  "11724" 
+ nome:  "MARTA DE CARVALHO" 
+ cpf:  "77325494815" 
+ valor:  197.21 
+ 39: Object   
+ matricula:  "11743" 
+ nome:  "ITALO GIULIANO BARSAN" 
+ cpf:  "48480520841" 
+ valor:  104.07 
+ 40: Object   
+ matricula:  "12054" 
+ nome:  "FRANCIELE MARQUES LIMA" 
+ cpf:  "07889362986" 
+ valor:  83.25 
+ 41: Object   
+ matricula:  "11985" 
+ nome:  "MARCIA APARECIDA DE ALMEIDA" 
+ cpf:  "31364670860" 
+ valor:  104.07 
+ 42: Object   
+ matricula:  "11990" 
+ nome:  "ARIEL FERNANDO COLLI DO VALLE" 
+ cpf:  "38700683884" 
+ valor:  104.07 
+ 43: Object   
+ matricula:  "11501" 
+ nome:  "JESSICA DE OLIVEIRA XAVIER" 
+ cpf:  "40573883890" 
+ valor:  73.96 
+ 44: Object   
+ matricula:  "11998" 
+ nome:  "REGINA DE CAMARGO CORREA" 
+ cpf:  "29882873847" 
+ valor:  104.07 
+ 45: Object   
+ matricula:  "11991" 
+ nome:  "CLAUDIO TERRANA" 
+ cpf:  "07643138869" 
+ valor:  104.07 
+ 46: Object   
+ matricula:  "12005" 
+ nome:  "LUIZA HELENA CASSIMIRO" 
+ cpf:  "18776358801" 
+ valor:  104.07 
+ 47: Object   
+ matricula:  "11707" 
+ nome:  "LUCAS FERREIRA DE OLIVEIRA" 
+ cpf:  "41182688845" 
+ valor:  104.07 
+ 48: Object   
+ matricula:  "11894" 
+ nome:  "VERONICA MOREIRA CONCEICAO COUTO" 
+ cpf:  "28005679882" 
+ valor:  728.52 
+ 49: Object   
+ matricula:  "11804" 
+ nome:  "SANDRA EIKO YOSHIDA SASAHARA" 
+ cpf:  "25819111826" 
+ valor:  104.07 
+ 50: Object   
+ matricula:  "11813" 
+ nome:  "NATALIA DOS SANTOS HISAOKA" 
+ cpf:  "38385547878" 
+ valor:  104.07 
+ 51: Object   
+ matricula:  "11552" 
+ nome:  "ROSA HELENA LOPES" 
+ cpf:  "26658326827" 
+ valor:  73.96 
+ 52: Object   
+ matricula:  "12413" 
+ nome:  "GLAUCIA ALVES DE SIQUEIRA" 
+ cpf:  "35151830864" 
+ valor:  104.07 
+ 53: Object   
+ matricula:  "11712" 
+ nome:  "BIANCA APARECIDA GOIS SOARES" 
+ cpf:  "44321364809" 
+ valor:  104.07 
+ 54: Object   
+ matricula:  "11944" 
+ nome:  "KAREN CRISTIANE DO PRADO CONELHEIRO" 
+ cpf:  "36600177870" 
+ valor:  104.07 
+ 55: Object   
+ matricula:  "11709" 
+ nome:  "MARCIA DE SOUZA MENDES" 
+ cpf:  "33991417855" 
+ valor:  104.07 
+ 56: Object   
+ matricula:  "11942" 
+ nome:  "CLAUDIA LUCIANA MAIA MACHADO" 
+ cpf:  "12056172801" 
+ valor:  312.22 
+ 57: Object   
+ matricula:  "11916" 
+ nome:  "KARLA SANAVIO DA SILVA" 
+ cpf:  "61487370350" 
+ valor:  104.07 
+ 58: Object   
+ matricula:  "12259" 
+ nome:  "PAMELA ISABEL RUBIO RUBIO" 
+ cpf:  "19572222805" 
+ valor:  104.07 
+ 59: Object   
+ matricula:  "12221" 
+ nome:  "RAFAEL SILVA BATISTA DOS SANTOS" 
+ cpf:  "36185516810" 
+ valor:  104.07 
+ 60: Object   
+ matricula:  "131761" 
+ nome:  "SUSANA MARIA DOS SANTOS" 
+ cpf:  "29121584869" 
+ valor:  147.93 
+ 61: Object   
+ matricula:  "11960" 
+ nome:  "RAQUEL RODRIGUES GRACIA" 
+ cpf:  "82248850115" 
+ valor:  104.07 
+ 62: Object   
+ matricula:  "11952" 
+ nome:  "LUCIANE APARECIDA DE FREITAS BRAJON" 
+ cpf:  "25359911875" 
+ valor:  332.99 
+ 63: Object   
+ matricula:  "11893" 
+ nome:  "ANDRESSA BARBOSA DA SILVA" 
+ cpf:  "47944671841" 
+ valor:  104.07 
+ 64: Object   
+ matricula:  "11829" 
+ nome:  "ALINE MAIARA SILVA DI SARNO" 
+ cpf:  "38492735805" 
+ valor:  104.07 
+ 65: Object   
+ matricula:  "9788" 
+ nome:  "DANIELA APARECIDA MANOEL CAETANO" 
+ cpf:  "27687010841" 
+ valor:  490.37 
+ 66: Object   
+ matricula:  "11703" 
+ nome:  "RAFAEL YOITI OJIMA" 
+ cpf:  "22964067856" 
+ valor:  104.07 
+ 67: Object   
+ matricula:  "11982" 
+ nome:  "GABRIELA MOREIRA DE SOUSA CARVALHO" 
+ cpf:  "43872585860" 
+ valor:  104.07 
+ 68: Object   
+ matricula:  "8174" 
+ nome:  "VANESSA FERREIRA DIAS BARBIERI" 
+ cpf:  "30974604895" 
+ valor:  1775.72 
+ 69: Object   
+ matricula:  "1330" 
+ nome:  "ELISABETH BENEDITA TEREZA VERGARA BARBOSA" 
+ cpf:  "07785439869" 
+ valor:  1328.91 
+ 70: Object   
+ matricula:  "8595" 
+ nome:  "MONICA MOREIRA TAVARES" 
+ cpf:  "09073497817" 
+ valor:  862 
+ 71: Object   
+ matricula:  "1619" 
+ nome:  "RITA DE CASSIA SCANFELA" 
+ cpf:  "18620169840" 
+ valor:  2255.95 
+ 72: Object   
+ matricula:  "6005" 
+ nome:  "HALINE SALGADO MARQUES" 
+ cpf:  "28731237886" 
+ valor:  1144.72 
+ 73: Object   
+ matricula:  "6682" 
+ nome:  "MIRELLA RAIKA DE NOVAES GONZAGA COCO" 
+ cpf:  "03738216626" 
+ valor:  2080.92 
+ 74: Object   
+ matricula:  "8507" 
+ nome:  "GLEISE CRISTINA PRUDENCIANO" 
+ cpf:  "08219165804" 
+ valor:  1331.79 
+ 75: Object   
+ matricula:  "6891" 
+ nome:  "GILCELENE DE FATIMA MARTINS SOUZA" 
+ cpf:  "13212658835" 
+ valor:  979.91 
+ 76: Object   
+ matricula:  "5928" 
+ nome:  "SERGIO DE OLIVEIRA SALAS" 
+ cpf:  "24724772875" 
+ valor:  2437.57 
+ 77: Object   
+ matricula:  "11748" 
+ nome:  "RITA DE CASSIA FRANCO" 
+ cpf:  "04415776604" 
+ valor:  104.07 
+ 78: Object   
+ matricula:  "11379" 
+ nome:  "VANESSA JACOB SUAIDE" 
+ cpf:  "24586490845" 
+ valor:  197.21 
+ 79: Object   
+ matricula:  "11588" 
+ nome:  "CARLA DOMINGUES MARIN DIAS" 
+ cpf:  "26455532813" 
+ valor:  56.09 
+ 80: Object   
+ matricula:  "12446" 
+ nome:  "SILVANIA GONCALVES SANTOS" 
+ cpf:  "22089376864" 
+ valor:  295.86 
+ 81: Object   
+ matricula:  "5741" 
+ nome:  "VIVIAN CASTELO BRANCO GALVAO" 
+ cpf:  "15588821890" 
+ valor:  2433.51 
+ 82: Object   
+ matricula:  "8294" 
+ nome:  "EDERLI PELOSI FREIRE MONAY" 
+ cpf:  "08500816880" 
+ valor:  1997.69 
+ 83: Object   
+ matricula:  "12275" 
+ nome:  "HELENA MARIA FERNANDES DORATIOTTO" 
+ cpf:  "66666210697" 
+ valor:  104.07 
+ 84: Object   
+ matricula:  "6396" 
+ nome:  "TEREZINHA APARECIDA PIRES BARBOSA TREVELINI" 
+ cpf:  "07695693820" 
+ valor:  2370.5 
+ 85: Object   
+ matricula:  "11869" 
+ nome:  "PAULA LEONARDI DE LIMA" 
+ cpf:  "32411745818" 
+ valor:  104.07 
+ 86: Object   
+ matricula:  "9787" 
+ nome:  "MIDIAN SILVA SANTOS TEODORO" 
+ cpf:  "41198036869" 
+ valor:  665.89 
+ 87: Object   
+ matricula:  "9016" 
+ nome:  "PRISCILA DE MORAES DOMINGUES" 
+ cpf:  "12057074846" 
+ valor:  2648.24 
+ 88: Object   
+ matricula:  "11711" 
+ nome:  "ALINE LIZANDRA NASCIMENTO" 
+ cpf:  "10850245630" 
+ valor:  104.07 
+ 89: Object   
+ matricula:  "11868" 
+ nome:  "ANA CRISTINA ALVES MARCONDES" 
+ cpf:  "29556179895" 
+ valor:  104.07 
+ 90: Object   
+ matricula:  "9930" 
+ nome:  "MARIA HELENA MADEIRA" 
+ cpf:  "24920582803" 
+ valor:  728.52 
+ 91: Object   
+ matricula:  "11512" 
+ nome:  "VALERIA CRISTINA DIAS PEREIRA" 
+ cpf:  "33232028802" 
+ valor:  104.07 
+ 92: Object   
+ matricula:  "11498" 
+ nome:  "CARMEM JOSE PARIZ MACHADO" 
+ cpf:  "34444000805" 
+ valor:  197.21 
+ 93: Object   
+ matricula:  "9253" 
+ nome:  "ADRIANA FERREIRA DA SILVA MARTINS" 
+ cpf:  "24797323809" 
+ valor:  812.52 
+ 94: Object   
+ matricula:  "6627" 
+ nome:  "MARIA PAULA NASCIMENTO WADA" 
+ cpf:  "08164788805" 
+ valor:  2092.23 
+ 95: Object   
+ matricula:  "8902" 
+ nome:  "JACKELINE DE PAULO GIROTO" 
+ cpf:  "18083303828" 
+ valor:  1046.12 
+ 96: Object   
+ matricula:  "11963" 
+ nome:  "CICERA ROSILANEA DE OLIVEIRA VIANA" 
+ cpf:  "02262588317" 
+ valor:  104.07 
+ 97: Object   
+ matricula:  "11736" 
+ nome:  "SILVIA REGINA PINHO DE CARVALHO" 
+ cpf:  "08465549842" 
+ valor:  197.21 
+ 98: Object   
+ matricula:  "11958" 
+ nome:  "MARIANA TATSUE NISHI DE MORAIS" 
+ cpf:  "39309139846" 
+ valor:  104.07 
+ 99: Object   
+ matricula:  "11999" 
+ nome:  "SANDRA IZABEL FERREIRA CUCHINIERK" 
+ cpf:  "74683128691" 
+ valor:  624.45 
+ 100: Object   
+ matricula:  "9259" 
+ nome:  "ROSIMAR RIBEIRO DINIZ" 
+ cpf:  "30508808804" 
+ valor:  836.89 
+ 101: Object   
+ matricula:  "12418" 
+ nome:  "SIMONE JESUS SILVA RAVOS" 
+ cpf:  "35107361846" 
+ valor:  234.16 
+ 102: Object   
+ matricula:  "8326" 
+ nome:  "MARCELA APARECIDA MATIAS PEREIRA SILVA" 
+ cpf:  "32175494810" 
+ valor:  1142.61 
+ 103: Object   
+ matricula:  "7098" 
+ nome:  "ELIETE MARIA DOS SANTOS" 
+ cpf:  "03533567869" 
+ valor:  1523.48 
+ 104: Object   
+ matricula:  "11730" 
+ nome:  "LAURA MARIA DUARTE PEINADO" 
+ cpf:  "39789026803" 
+ valor:  95.4 
+ 105: Object   
+ matricula:  "571" 
+ nome:  "ELENICE DORATIOTTO BARTOLOMEI" 
+ cpf:  "12833457812" 
+ valor:  1017.23 
+ 106: Object   
+ matricula:  "618" 
+ nome:  "TEREZINHA DE JESUS ARANTES BARBOSA" 
+ cpf:  "17796958889" 
+ valor:  1406.18 
+ numeroEvento:  "860" 
+ descricaoEvento:  "13º - ADICIONAL TEMPO SERVICO " 
+ tipoEvento:  "PROVENTO" 
+ 388: Object   
+ numeroOrganograma:  "11802004" 
+ descricaoOrganograma:  "Fundeb Especial" 
+ descricaoVinculoEmpregaticio:  "Celetista" 
+ provisaoBaixada:  false 
+ valor:  "63703.06" 
+ funcionarios: Array [199]  
+ 0: Object   
+ matricula:  "10103" 
+ nome:  "EDILAINE ROCHA MOURA BAPTISTA" 
+ cpf:  "12861826894" 
+ valor:  187.01 
+ 1: Object   
+ matricula:  "1088" 
+ nome:  "EVELY BEDORE" 
+ cpf:  "27839514871" 
+ valor:  451.06 
+ 2: Object   
+ matricula:  "1093" 
+ nome:  "MARIA ROSELUCIA RODRIGUES DA SILVA" 
+ cpf:  "11313286800" 
+ valor:  440.71 
+ 3: Object   
+ matricula:  "9301" 
+ nome:  "MICHELE LOPES PADILHA" 
+ cpf:  "33254488873" 
+ valor:  71.65 
+ 4: Object   
+ matricula:  "9317" 
+ nome:  "LETICIA COELHO RUIZ" 
+ cpf:  "21834515807" 
+ valor:  951.62 
+ 5: Object   
+ matricula:  "8288" 
+ nome:  "ANA SILVIA DE PAIVA E SILVA" 
+ cpf:  "31679839810" 
+ valor:  712.7 
+ 6: Object   
+ matricula:  "5800" 
+ nome:  "SANDRA APARECIDA MORA DA COSTA" 
+ cpf:  "17795269893" 
+ valor:  438.31 
+ 7: Object   
+ matricula:  "10476" 
+ nome:  "IDINES SANTOS DE ANDRADE SILVA" 
+ cpf:  "18933415858" 
+ valor:  604.12 
+ 8: Object   
+ matricula:  "4248" 
+ nome:  "CELIA REGINA CORGA DA SILVA ANGELO" 
+ cpf:  "02983250806" 
+ valor:  951.62 
+ 9: Object   
+ matricula:  "8359" 
+ nome:  "VANESSA APARECIDA NUNES SEPULVEDA" 
+ cpf:  "30714544817" 
+ valor:  778.87 
+ 10: Object   
+ matricula:  "6956" 
+ nome:  "JOSETI APARECIDA DA SILVA BORGES" 
+ cpf:  "63613530953" 
+ valor:  805.48 
+ 11: Object   
+ matricula:  "4439" 
+ nome:  "AVANIL APARECIDA GONZAGA" 
+ cpf:  "10011417846" 
+ valor:  951.62 
+ 12: Object   
+ matricula:  "7131" 
+ nome:  "FRANCIS CARLA FILIPE" 
+ cpf:  "26690727807" 
+ valor:  114.36 
+ 13: Object   
+ matricula:  "7210" 
+ nome:  "MARIA CRISTINA DA MATA" 
+ cpf:  "25564294882" 
+ valor:  951.62 
+ 14: Object   
+ matricula:  "8115" 
+ nome:  "VANESSA FALCAO BARELLA" 
+ cpf:  "28815687858" 
+ valor:  744.85 
+ 15: Object   
+ matricula:  "8129" 
+ nome:  "ANDREIA MEIRE CESARINO" 
+ cpf:  "85476137653" 
+ valor:  762.93 
+ 16: Object   
+ matricula:  "6218" 
+ nome:  "ANGELINA MARCELIA LESSART BRANDAO" 
+ cpf:  "45749485749" 
+ valor:  951.62 
+ 17: Object   
+ matricula:  "11484" 
+ nome:  "CRISTIAN DE SOUSA FREITAS" 
+ cpf:  "47015113821" 
+ valor:  150.3 
+ 18: Object   
+ matricula:  "10242" 
+ nome:  "LUIS CARLOS PINHEIRO" 
+ cpf:  "13415500870" 
+ valor:  951.62 
+ 19: Object   
+ matricula:  "11197" 
+ nome:  "MARIA CECILIA REGIS CHAMA PUGA" 
+ cpf:  "12519150866" 
+ valor:  586.69 
+ 20: Object   
+ matricula:  "9991" 
+ nome:  "MARCIO ROGERIO DE OLIVEIRA AZEVEDO" 
+ cpf:  "15868619803" 
+ valor:  269.89 
+ 21: Object   
+ matricula:  "9389" 
+ nome:  "LILIAN BORGER KIMURA" 
+ cpf:  "03706031841" 
+ valor:  171.29 
+ 22: Object   
+ matricula:  "11291" 
+ nome:  "ANA SILVIA DE PAIVA E SILVA" 
+ cpf:  "31679839810" 
+ valor:  238.92 
+ 23: Object   
+ matricula:  "11468" 
+ nome:  "MARIA NEIDE ROCHA TAVARES SOUTELO" 
+ cpf:  "07600749840" 
+ valor:  586.69 
+ 24: Object   
+ matricula:  "11472" 
+ nome:  "ANDRESSA DE LIMA TEIXEIRA QUIRINO" 
+ cpf:  "42700870808" 
+ valor:  217.08 
+ 25: Object   
+ matricula:  "10496" 
+ nome:  "AIRAM CRISTINE BORZANI DOS VALES" 
+ cpf:  "31205460896" 
+ valor:  856.95 
+ 26: Object   
+ matricula:  "10646" 
+ nome:  "ROSANA APARECIDA MONTEOLIVA" 
+ cpf:  "07785432856" 
+ valor:  156.96 
+ 27: Object   
+ matricula:  "11747" 
+ nome:  "KARINA VELOSO DO VALLE" 
+ cpf:  "34942281830" 
+ valor:  220.76 
+ 28: Object   
+ matricula:  "11746" 
+ nome:  "ESTEFANI GRAZIELI DE OLIVEIRA PEIXOTO" 
+ cpf:  "44509805810" 
+ valor:  220.76 
+ 29: Object   
+ matricula:  "12002" 
+ nome:  "ADRIANA APARECIDA PIRES SERAFIM" 
+ cpf:  "40486928870" 
+ valor:  220.76 
+ 30: Object   
+ matricula:  "12268" 
+ nome:  "MARCO AURELIO PAULINO SANTOS" 
+ cpf:  "40751709859" 
+ valor:  212.62 
+ 31: Object   
+ matricula:  "12358" 
+ nome:  "ISABEL CRISTINA VERONEZI OLIVEIRA" 
+ cpf:  "28592954886" 
+ valor:  456.69 
+ 32: Object   
+ matricula:  "12400" 
+ nome:  "LUCIMARA DOS SANTOS PEREIRA" 
+ cpf:  "33951201800" 
+ valor:  233.66 
+ 33: Object   
+ matricula:  "12393" 
+ nome:  "KELLY RAMOS DE SOUSA NERIS" 
+ cpf:  "35434022858" 
+ valor:  502.57 
+ 34: Object   
+ matricula:  "12415" 
+ nome:  "LETICIA MILENE BETTINI" 
+ cpf:  "52704689806" 
+ valor:  211.39 
+ 35: Object   
+ matricula:  "11325" 
+ nome:  "THAIS FRANCIELE VALINHOS" 
+ cpf:  "43650316862" 
+ valor:  578.55 
+ 36: Object   
+ matricula:  "11947" 
+ nome:  "SUZY DARLEM PRETTI" 
+ cpf:  "29742241805" 
+ valor:  220.76 
+ 37: Object   
+ matricula:  "11675" 
+ nome:  "HENRIQUE AUGUSTO BORGES DE CASTRO" 
+ cpf:  "17206024840" 
+ valor:  220.76 
+ 38: Object   
+ matricula:  "11680" 
+ nome:  "ALINE GOUVEIA VIANA KATO" 
+ cpf:  "22970830841" 
+ valor:  220.76 
+ 39: Object   
+ matricula:  "11524" 
+ nome:  "CINTIA DE MORAIS COUTINHO" 
+ cpf:  "45242758864" 
+ valor:  281.12 
+ 40: Object   
+ matricula:  "12603" 
+ nome:  "LUARA UZZO GARCIA" 
+ cpf:  "42940525897" 
+ valor:  211.39 
+ 41: Object   
+ matricula:  "11713" 
+ nome:  "KELLY PALOMA RAMALHO MACHADO" 
+ cpf:  "44193133826" 
+ valor:  230.6 
+ 42: Object   
+ matricula:  "11725" 
+ nome:  "EDNA CORREIA DE ASSIS" 
+ cpf:  "18186430814" 
+ valor:  220.76 
+ 43: Object   
+ matricula:  "11459" 
+ nome:  "JOAO PAULO BATISTA GOMES" 
+ cpf:  "33678310850" 
+ valor:  244.92 
+ 44: Object   
+ matricula:  "11724" 
+ nome:  "MARTA DE CARVALHO" 
+ cpf:  "77325494815" 
+ valor:  580.99 
+ 45: Object   
+ matricula:  "11743" 
+ nome:  "ITALO GIULIANO BARSAN" 
+ cpf:  "48480520841" 
+ valor:  244.92 
+ 46: Object   
+ matricula:  "12054" 
+ nome:  "FRANCIELE MARQUES LIMA" 
+ cpf:  "07889362986" 
+ valor:  172.02 
+ 47: Object   
+ matricula:  "11985" 
+ nome:  "MARCIA APARECIDA DE ALMEIDA" 
+ cpf:  "31364670860" 
+ valor:  220.76 
+ 48: Object   
+ matricula:  "11990" 
+ nome:  "ARIEL FERNANDO COLLI DO VALLE" 
+ cpf:  "38700683884" 
+ valor:  220.76 
+ 49: Object   
+ matricula:  "11501" 
+ nome:  "JESSICA DE OLIVEIRA XAVIER" 
+ cpf:  "40573883890" 
+ valor:  150.3 
+ 50: Object   
+ matricula:  "12231" 
+ nome:  "LAYZA MARCELA SILVEIRA PEREIRA" 
+ cpf:  "46468292824" 
+ valor:  211.39 
+ 51: Object   
+ matricula:  "11998" 
+ nome:  "REGINA DE CAMARGO CORREA" 
+ cpf:  "29882873847" 
+ valor:  220.76 
+ 52: Object   
+ matricula:  "11991" 
+ nome:  "CLAUDIO TERRANA" 
+ cpf:  "07643138869" 
+ valor:  220.76 
+ 53: Object   
+ matricula:  "12265" 
+ nome:  "BEATRIZ FREITAS VALLIM" 
+ cpf:  "44148417802" 
+ valor:  206.94 
+ 54: Object   
+ matricula:  "12271" 
+ nome:  "FRANCIS TORQUATO BORLINO DOS SANTOS" 
+ cpf:  "26983462807" 
+ valor:  211.39 
+ 55: Object   
+ matricula:  "12005" 
+ nome:  "LUIZA HELENA CASSIMIRO" 
+ cpf:  "18776358801" 
+ valor:  220.76 
+ 56: Object   
+ matricula:  "12025" 
+ nome:  "DANIELA INGLES NOGUEIRA" 
+ cpf:  "32875075837" 
+ valor:  65.81 
+ 57: Object   
+ matricula:  "11707" 
+ nome:  "LUCAS FERREIRA DE OLIVEIRA" 
+ cpf:  "41182688845" 
+ valor:  220.76 
+ 58: Object   
+ matricula:  "11894" 
+ nome:  "VERONICA MOREIRA CONCEICAO COUTO" 
+ cpf:  "28005679882" 
+ valor:  293.05 
+ 59: Object   
+ matricula:  "11804" 
+ nome:  "SANDRA EIKO YOSHIDA SASAHARA" 
+ cpf:  "25819111826" 
+ valor:  220.76 
+ 60: Object   
+ matricula:  "11813" 
+ nome:  "NATALIA DOS SANTOS HISAOKA" 
+ cpf:  "38385547878" 
+ valor:  220.76 
+ 61: Object   
+ matricula:  "12266" 
+ nome:  "ELIANE MARIA BARBOSA" 
+ cpf:  "24887302894" 
+ valor:  226.89 
+ 62: Object   
+ matricula:  "12269" 
+ nome:  "MARILZA SATHLER DE SOUZA" 
+ cpf:  "26730347813" 
+ valor:  769.89 
+ 63: Object   
+ matricula:  "11552" 
+ nome:  "ROSA HELENA LOPES" 
+ cpf:  "26658326827" 
+ valor:  164.59 
+ 64: Object   
+ matricula:  "131690" 
+ nome:  "GIOVANA SANTOS DOS REIS" 
+ cpf:  "44752442850" 
+ valor:  93.54 
+ 65: Object   
+ matricula:  "12442" 
+ nome:  "VALERIA CRISTINA BIANCHI" 
+ cpf:  "26910869842" 
+ valor:  158.59 
+ 66: Object   
+ matricula:  "12452" 
+ nome:  "RAVI XAVIER EUGENIO LOBO/ROSANA XAVIER EUGENIO" 
+ cpf:  "39993650803" 
+ valor:  189.55 
+ 67: Object   
+ matricula:  "12413" 
+ nome:  "GLAUCIA ALVES DE SIQUEIRA" 
+ cpf:  "35151830864" 
+ valor:  246.14 
+ 68: Object   
+ matricula:  "12419" 
+ nome:  "ADRIANA ALITZA SANTOS ROCHA" 
+ cpf:  "27461962809" 
+ valor:  143.65 
+ 69: Object   
+ matricula:  "12423" 
+ nome:  "CLARETE DE LIMA" 
+ cpf:  "10793547865" 
+ valor:  144.95 
+ 70: Object   
+ matricula:  "12417" 
+ nome:  "NIDIA MARIA DE OLIVEIRA MENDES" 
+ cpf:  "51721178813" 
+ valor:  233.66 
+ 71: Object   
+ matricula:  "12431" 
+ nome:  "JOSEFA BISPO DA COSTA RAMOS" 
+ cpf:  "78770602468" 
+ valor:  143.65 
+ 72: Object   
+ matricula:  "12416" 
+ nome:  "MICHELLE ELISA SAITO FAGUNDES PINHEIRO" 
+ cpf:  "24688807813" 
+ valor:  233.66 
+ 73: Object   
+ matricula:  "131865" 
+ nome:  "IDIARA SANTOS DE JESUS" 
+ cpf:  "16588217773" 
+ valor:  81.54 
+ 74: Object   
+ matricula:  "11712" 
+ nome:  "BIANCA APARECIDA GOIS SOARES" 
+ cpf:  "44321364809" 
+ valor:  220.76 
+ 75: Object   
+ matricula:  "11944" 
+ nome:  "KAREN CRISTIANE DO PRADO CONELHEIRO" 
+ cpf:  "36600177870" 
+ valor:  244.92 
+ 76: Object   
+ matricula:  "11709" 
+ nome:  "MARCIA DE SOUZA MENDES" 
+ cpf:  "33991417855" 
+ valor:  244.92 
+ 77: Object   
+ matricula:  "131708" 
+ nome:  "DEBORA VIEIRA DA SILVA" 
+ cpf:  "46511586847" 
+ valor:  135.17 
+ 78: Object   
+ matricula:  "131728" 
+ nome:  "ROSELENE DOS SANTOS" 
+ cpf:  "32818853818" 
+ valor:  113.83 
+ 79: Object   
+ matricula:  "12508" 
+ nome:  "NICOLY EDUARDA SANTOS FARIA" 
+ cpf:  "36827225801" 
+ valor:  143.65 
+ 80: Object   
+ matricula:  "12494" 
+ nome:  "MARILAN RIBEIRO DE OLIVEIRA ALBUQUERQUE" 
+ cpf:  "13472555831" 
+ valor:  494.93 
+ 81: Object   
+ matricula:  "12369" 
+ nome:  "FERNANDA DE MORAES FERREIRA MARIANO" 
+ cpf:  "32855968801" 
+ valor:  211.39 
+ 82: Object   
+ matricula:  "11942" 
+ nome:  "CLAUDIA LUCIANA MAIA MACHADO" 
+ cpf:  "12056172801" 
+ valor:  243.09 
+ 83: Object   
+ matricula:  "11916" 
+ nome:  "KARLA SANAVIO DA SILVA" 
+ cpf:  "61487370350" 
+ valor:  220.76 
+ 84: Object   
+ matricula:  "12327" 
+ nome:  "LEONARDO LUCIANO MARQUES DA SILVA" 
+ cpf:  "48729447801" 
+ valor:  233.66 
+ 85: Object   
+ matricula:  "12441" 
+ nome:  "SIBELI APARECIDA OLIVEIRA SOLDI MUNIZ" 
+ cpf:  "33366114827" 
+ valor:  143.65 
+ 86: Object   
+ matricula:  "12553" 
+ nome:  "EMANUELA MOREIRA DE QUEIROZ" 
+ cpf:  "01051812348" 
+ valor:  69.34 
+ 87: Object   
+ matricula:  "12236" 
+ nome:  "GABRIELA CRISTINA BARBOSA" 
+ cpf:  "36892454860" 
+ valor:  233.66 
+ 88: Object   
+ matricula:  "12238" 
+ nome:  "ERICK RAMON REIS VIRGINIO DOS SANTOS" 
+ cpf:  "49213529848" 
+ valor:  211.39 
+ 89: Object   
+ matricula:  "12259" 
+ nome:  "PAMELA ISABEL RUBIO RUBIO" 
+ cpf:  "19572222805" 
+ valor:  233.14 
+ 90: Object   
+ matricula:  "131646" 
+ nome:  "GIOVANNA EMANUELY PASSOS" 
+ cpf:  "55957590894" 
+ valor:  173.07 
+ 91: Object   
+ matricula:  "131667" 
+ nome:  "FRANCISLAINE DE OLIVEIRA FROSSARD BRUM" 
+ cpf:  "09094641704" 
+ valor:  154.5 
+ 92: Object   
+ matricula:  "131668" 
+ nome:  "ROSE MERY NUNES DE SOUZA" 
+ cpf:  "34921856818" 
+ valor:  133.34 
+ 93: Object   
+ matricula:  "131642" 
+ nome:  "ANDRE LUIS PRETO SILVA" 
+ cpf:  "49037739814" 
+ valor:  173.07 
+ 94: Object   
+ matricula:  "12298" 
+ nome:  "BEATRIZ FERNANDES GISMENE" 
+ cpf:  "37473776886" 
+ valor:  211.39 
+ 95: Object   
+ matricula:  "131910" 
+ nome:  "EMMANUELLE ROBERTA DA SILVA" 
+ cpf:  "44247510827" 
+ valor:  103.17 
+ 96: Object   
+ matricula:  "131911" 
+ nome:  "BEATRIZ DE OLIVEIRA TEIXEIRA" 
+ cpf:  "44989499867" 
+ valor:  112.02 
+ 97: Object   
+ matricula:  "131917" 
+ nome:  "ROBERTA GOMES COELHO DA CUNHA" 
+ cpf:  "29392060823" 
+ valor:  92.44 
+ 98: Object   
+ matricula:  "131894" 
+ nome:  "ANDERSON DA ROCHA" 
+ cpf:  "24986736876" 
+ valor:  66.67 
+ 99: Object   
+ matricula:  "131912" 
+ nome:  "JULIANA DE ANDRADE SILVA PEDROSO" 
+ cpf:  "42104611806" 
+ valor:  99.35 
+ 100: Object   
+ matricula:  "12209" 
+ nome:  "MARCO ANTONIO BATISTA RAMOS" 
+ cpf:  "26879188818" 
+ valor:  505.27 
+ 101: Object   
+ matricula:  "12195" 
+ nome:  "MARIA DE LOURDES DA SILVA" 
+ cpf:  "24782065876" 
+ valor:  504.2 
+ 102: Object   
+ matricula:  "12225" 
+ nome:  "KATIA CRISTINA MACHADO RIBEIRO" 
+ cpf:  "45123553835" 
+ valor:  233.66 
+ 103: Object   
+ matricula:  "12221" 
+ nome:  "RAFAEL SILVA BATISTA DOS SANTOS" 
+ cpf:  "36185516810" 
+ valor:  220.76 
+ 104: Object   
+ matricula:  "12226" 
+ nome:  "SERGIO AUGUSTO GEREMIAS MARQUES" 
+ cpf:  "27257192839" 
+ valor:  211.39 
+ 105: Object   
+ matricula:  "12215" 
+ nome:  "THAIS FERNANDA DE LIMA BELVIZZO" 
+ cpf:  "43467092810" 
+ valor:  211.39 
+ 106: Object   
+ matricula:  "131749" 
+ nome:  "TIAGO HENRIQUE MORAES SANTOS" 
+ cpf:  "42331446881" 
+ valor:  115.77 
+ 107: Object   
+ matricula:  "12878" 
+ nome:  "FRANCISCO FIDELES ALVES JUNIOR" 
+ cpf:  "38729554896" 
+ valor:  195.19 
+ 108: Object   
+ matricula:  "12884" 
+ nome:  "ESTER VIEIRA CUNHA MARTINS" 
+ cpf:  "35782135867" 
+ valor:  191.88 
+ 109: Object   
+ matricula:  "131835" 
+ nome:  "PABLO HENRIQUE SILVEIRA" 
+ cpf:  "48291235830" 
+ valor:  58.94 
+ 110: Object   
+ matricula:  "131755" 
+ nome:  "JENIFFER SILVEIRA CHAGAS" 
+ cpf:  "56457334873" 
+ valor:  115.77 
+ 111: Object   
+ matricula:  "131758" 
+ nome:  "MIRIAM DA SILVA ASSIS" 
+ cpf:  "92691870200" 
+ valor:  97.56 
+ 112: Object   
+ matricula:  "131761" 
+ nome:  "SUSANA MARIA DOS SANTOS" 
+ cpf:  "29121584869" 
+ valor:  80.43 
+ 113: Object   
+ matricula:  "131757" 
+ nome:  "LETICIA LEITE BATISTA NASCIMENTO" 
+ cpf:  "44665031843" 
+ valor:  208.09 
+ 114: Object   
+ matricula:  "11960" 
+ nome:  "RAQUEL RODRIGUES GRACIA" 
+ cpf:  "82248850115" 
+ valor:  220.76 
+ 115: Object   
+ matricula:  "11952" 
+ nome:  "LUCIANE APARECIDA DE FREITAS BRAJON" 
+ cpf:  "25359911875" 
+ valor:  194.5 
+ 116: Object   
+ matricula:  "12983" 
+ nome:  "ELAINE FERREIRA DE SOUZA" 
+ cpf:  "15556001740" 
+ valor:  173.66 
+ 117: Object   
+ matricula:  "131619" 
+ nome:  "SUELI DO PRADO" 
+ cpf:  "15465973870" 
+ valor:  116.41 
+ 118: Object   
+ matricula:  "11893" 
+ nome:  "ANDRESSA BARBOSA DA SILVA" 
+ cpf:  "47944671841" 
+ valor:  220.76 
+ 119: Object   
+ matricula:  "12481" 
+ nome:  "REBECA AUGUSTO GERALDO DOS SANTOS" 
+ cpf:  "42414673850" 
+ valor:  504.61 
+ 120: Object   
+ matricula:  "12477" 
+ nome:  "GIOVANA DE MORAES" 
+ cpf:  "44832407813" 
+ valor:  211.39 
+ 121: Object   
+ matricula:  "131694" 
+ nome:  "DANIELLI MIRANDA DA SILVA" 
+ cpf:  "49098507832" 
+ valor:  113.83 
+ 122: Object   
+ matricula:  "131689" 
+ nome:  "MARIA APARECIDA DA SILVA" 
+ cpf:  "40946245894" 
+ valor:  80.89 
+ 123: Object   
+ matricula:  "131693" 
+ nome:  "FRANCISCA ODILANIA DE OLIVEIRA SILVA" 
+ cpf:  "00072445335" 
+ valor:  135.17 
+ 124: Object   
+ matricula:  "131698" 
+ nome:  "MARIANA APARECIDA DA SILVA" 
+ cpf:  "34452461816" 
+ valor:  93.54 
+ 125: Object   
+ matricula:  "131810" 
+ nome:  "EDNA PEREIRA LIMA" 
+ cpf:  "27548215894" 
+ valor:  67.32 
+ 126: Object   
+ matricula:  "131805" 
+ nome:  "BEATRIZ DE CASSIA MARQUES" 
+ cpf:  "41806046806" 
+ valor:  57.78 
+ 127: Object   
+ matricula:  "131795" 
+ nome:  "SIMONE GRAZIELA PALINI" 
+ cpf:  "30413431851" 
+ valor:  108.3 
+ 128: Object   
+ matricula:  "12324" 
+ nome:  "ISABELLE LUIZ GARCIA" 
+ cpf:  "40393353842" 
+ valor:  211.39 
+ 129: Object   
+ matricula:  "12336" 
+ nome:  "CLEBER LUCAS SANTANA BELO" 
+ cpf:  "17178057793" 
+ valor:  233.66 
+ 130: Object   
+ matricula:  "12979" 
+ nome:  "ENIO RANDI" 
+ cpf:  "10715752600" 
+ valor:  104.01 
+ 131: Object   
+ matricula:  "12981" 
+ nome:  "JACQUELINE AMELIA LEITE" 
+ cpf:  "18930655882" 
+ valor:  104.01 
+ 132: Object   
+ matricula:  "12540" 
+ nome:  "TEREZA CRISTINA DOS SANTOS TELLES" 
+ cpf:  "46981340801" 
+ valor:  144.95 
+ 133: Object   
+ matricula:  "12542" 
+ nome:  "GABRIEL HENRIQUE AZEVEDO GONCALVES" 
+ cpf:  "46705097809" 
+ valor:  211.39 
+ 134: Object   
+ matricula:  "12543" 
+ nome:  "MARCIA CRISTINA MOURA SOUZA ALVES" 
+ cpf:  "13227208784" 
+ valor:  233.66 
+ 135: Object   
+ matricula:  "12539" 
+ nome:  "SANDRA REGINA GODOY BARBOSA" 
+ cpf:  "18193694805" 
+ valor:  158.59 
+ 136: Object   
+ matricula:  "12954" 
+ nome:  "GUSTAVO ZINI FERNANDES COSTA" 
+ cpf:  "47877918852" 
+ valor:  174.16 
+ 137: Object   
+ matricula:  "12955" 
+ nome:  "ELIETE APARECIDA DIAS OLIVEIRA" 
+ cpf:  "25459431859" 
+ valor:  174.16 
+ 138: Object   
+ matricula:  "12945" 
+ nome:  "VERA BIAZETTO" 
+ cpf:  "07786428879" 
+ valor:  104.01 
+ 139: Object   
+ matricula:  "12534" 
+ nome:  "ENZO ALMEIDA BRILHA SANTOS" 
+ cpf:  "51977188893" 
+ valor:  158.59 
+ 140: Object   
+ matricula:  "12521" 
+ nome:  "ALINE LEITE MARQUES MENEZES" 
+ cpf:  "53336766826" 
+ valor:  143.65 
+ 141: Object   
+ matricula:  "12512" 
+ nome:  "ANDRE RICARDO CAVALCANTE SILVA" 
+ cpf:  "51528849841" 
+ valor:  158.59 
+ 142: Object   
+ matricula:  "12523" 
+ nome:  "ALESSANDRA SANTOS FARIAS" 
+ cpf:  "27333181871" 
+ valor:  144.08 
+ 143: Object   
+ matricula:  "12533" 
+ nome:  "BEATRIZ LUNA LENOTTI" 
+ cpf:  "51708160817" 
+ valor:  143.65 
+ 144: Object   
+ matricula:  "12577" 
+ nome:  "BRENDA KAROLYNE SANTOS DA COSTA" 
+ cpf:  "49904412812" 
+ valor:  144.95 
+ 145: Object   
+ matricula:  "12516" 
+ nome:  "AMANDA MACEDO SANTOS" 
+ cpf:  "04847080580" 
+ valor:  585.15 
+ 146: Object   
+ matricula:  "11829" 
+ nome:  "ALINE MAIARA SILVA DI SARNO" 
+ cpf:  "38492735805" 
+ valor:  221.68 
+ 147: Object   
+ matricula:  "9788" 
+ nome:  "DANIELA APARECIDA MANOEL CAETANO" 
+ cpf:  "27687010841" 
+ valor:  450.33 
+ 148: Object   
+ matricula:  "11703" 
+ nome:  "RAFAEL YOITI OJIMA" 
+ cpf:  "22964067856" 
+ valor:  220.76 
+ 149: Object   
+ matricula:  "11982" 
+ nome:  "GABRIELA MOREIRA DE SOUSA CARVALHO" 
+ cpf:  "43872585860" 
+ valor:  244.92 
+ 150: Object   
+ matricula:  "8174" 
+ nome:  "VANESSA FERREIRA DIAS BARBIERI" 
+ cpf:  "30974604895" 
+ valor:  951.62 
+ 151: Object   
+ matricula:  "1330" 
+ nome:  "ELISABETH BENEDITA TEREZA VERGARA BARBOSA" 
+ cpf:  "07785439869" 
+ valor:  451.57 
+ 152: Object   
+ matricula:  "8595" 
+ nome:  "MONICA MOREIRA TAVARES" 
+ cpf:  "09073497817" 
+ valor:  693.14 
+ 153: Object   
+ matricula:  "1619" 
+ nome:  "RITA DE CASSIA SCANFELA" 
+ cpf:  "18620169840" 
+ valor:  951.62 
+ 154: Object   
+ matricula:  "6005" 
+ nome:  "HALINE SALGADO MARQUES" 
+ cpf:  "28731237886" 
+ valor:  427.52 
+ 155: Object   
+ matricula:  "6682" 
+ nome:  "MIRELLA RAIKA DE NOVAES GONZAGA COCO" 
+ cpf:  "03738216626" 
+ valor:  951.62 
+ 156: Object   
+ matricula:  "8507" 
+ nome:  "GLEISE CRISTINA PRUDENCIANO" 
+ cpf:  "08219165804" 
+ valor:  787.77 
+ 157: Object   
+ matricula:  "6891" 
+ nome:  "GILCELENE DE FATIMA MARTINS SOUZA" 
+ cpf:  "13212658835" 
+ valor:  525.53 
+ 158: Object   
+ matricula:  "5928" 
+ nome:  "SERGIO DE OLIVEIRA SALAS" 
+ cpf:  "24724772875" 
+ valor:  951.62 
+ 159: Object   
+ matricula:  "11748" 
+ nome:  "RITA DE CASSIA FRANCO" 
+ cpf:  "04415776604" 
+ valor:  220.76 
+ 160: Object   
+ matricula:  "12273" 
+ nome:  "LARISSA CONCEICAO CAMPOS SILVA" 
+ cpf:  "47148916852" 
+ valor:  233.66 
+ 161: Object   
+ matricula:  "11379" 
+ nome:  "VANESSA JACOB SUAIDE" 
+ cpf:  "24586490845" 
+ valor:  527.43 
+ 162: Object   
+ matricula:  "11588" 
+ nome:  "CARLA DOMINGUES MARIN DIAS" 
+ cpf:  "26455532813" 
+ valor:  85.1 
+ 163: Object   
+ matricula:  "12446" 
+ nome:  "SILVANIA GONCALVES SANTOS" 
+ cpf:  "22089376864" 
+ valor:  172.37 
+ 164: Object   
+ matricula:  "5741" 
+ nome:  "VIVIAN CASTELO BRANCO GALVAO" 
+ cpf:  "15588821890" 
+ valor:  951.62 
+ 165: Object   
+ matricula:  "8294" 
+ nome:  "EDERLI PELOSI FREIRE MONAY" 
+ cpf:  "08500816880" 
+ valor:  951.62 
+ 166: Object   
+ matricula:  "12275" 
+ nome:  "HELENA MARIA FERNANDES DORATIOTTO" 
+ cpf:  "66666210697" 
+ valor:  246.14 
+ 167: Object   
+ matricula:  "6396" 
+ nome:  "TEREZINHA APARECIDA PIRES BARBOSA TREVELINI" 
+ cpf:  "07695693820" 
+ valor:  951.62 
+ 168: Object   
+ matricula:  "12918" 
+ nome:  "ANA PAULA TELES" 
+ cpf:  "38092983879" 
+ valor:  117.19 
+ 169: Object   
+ matricula:  "11869" 
+ nome:  "PAULA LEONARDI DE LIMA" 
+ cpf:  "32411745818" 
+ valor:  220.76 
+ 170: Object   
+ matricula:  "9787" 
+ nome:  "MIDIAN SILVA SANTOS TEODORO" 
+ cpf:  "41198036869" 
+ valor:  757.17 
+ 171: Object   
+ matricula:  "9016" 
+ nome:  "PRISCILA DE MORAES DOMINGUES" 
+ cpf:  "12057074846" 
+ valor:  951.62 
+ 172: Object   
+ matricula:  "12218" 
+ nome:  "IRENE ILARIO DE LIMA REGIS" 
+ cpf:  "27889273800" 
+ valor:  233.66 
+ 173: Object   
+ matricula:  "11711" 
+ nome:  "ALINE LIZANDRA NASCIMENTO" 
+ cpf:  "10850245630" 
+ valor:  220.76 
+ 174: Object   
+ matricula:  "131695" 
+ nome:  "ANGELA DE CASSIA SILVA" 
+ cpf:  "30421959886" 
+ valor:  135.05 
+ 175: Object   
+ matricula:  "11868" 
+ nome:  "ANA CRISTINA ALVES MARCONDES" 
+ cpf:  "29556179895" 
+ valor:  220.76 
+ 176: Object   
+ matricula:  "9930" 
+ nome:  "MARIA HELENA MADEIRA" 
+ cpf:  "24920582803" 
+ valor:  319.85 
+ 177: Object   
+ matricula:  "11512" 
+ nome:  "VALERIA CRISTINA DIAS PEREIRA" 
+ cpf:  "33232028802" 
+ valor:  231.12 
+ 178: Object   
+ matricula:  "11498" 
+ nome:  "CARMEM JOSE PARIZ MACHADO" 
+ cpf:  "34444000805" 
+ valor:  586.69 
+ 179: Object   
+ matricula:  "131785" 
+ nome:  "SILVANIA COSTA FRANCA" 
+ cpf:  "27641138896" 
+ valor:  79.08 
+ 180: Object   
+ matricula:  "9253" 
+ nome:  "ADRIANA FERREIRA DA SILVA MARTINS" 
+ cpf:  "24797323809" 
+ valor:  698.12 
+ 181: Object   
+ matricula:  "6627" 
+ nome:  "MARIA PAULA NASCIMENTO WADA" 
+ cpf:  "08164788805" 
+ valor:  951.62 
+ 182: Object   
+ matricula:  "12414" 
+ nome:  "APOLLO BETTINI/LARISSA MELINA BETTINI" 
+ cpf:  "52704658846" 
+ valor:  211.39 
+ 183: Object   
+ matricula:  "8902" 
+ nome:  "JACKELINE DE PAULO GIROTO" 
+ cpf:  "18083303828" 
+ valor:  688.32 
+ 184: Object   
+ matricula:  "11963" 
+ nome:  "CICERA ROSILANEA DE OLIVEIRA VIANA" 
+ cpf:  "02262588317" 
+ valor:  220.76 
+ 185: Object   
+ matricula:  "12427" 
+ nome:  "ELISANGELA ROSINEI FONTES" 
+ cpf:  "27010450889" 
+ valor:  151.97 
+ 186: Object   
+ matricula:  "11736" 
+ nome:  "SILVIA REGINA PINHO DE CARVALHO" 
+ cpf:  "08465549842" 
+ valor:  589.07 
+ 187: Object   
+ matricula:  "11958" 
+ nome:  "MARIANA TATSUE NISHI DE MORAIS" 
+ cpf:  "39309139846" 
+ valor:  244.92 
+ 188: Object   
+ matricula:  "11999" 
+ nome:  "SANDRA IZABEL FERREIRA CUCHINIERK" 
+ cpf:  "74683128691" 
+ valor:  280.56 
+ 189: Object   
+ matricula:  "131723" 
+ nome:  "ELZA FERREIRA DE BRITO" 
+ cpf:  "08420063894" 
+ valor:  91.49 
+ 190: Object   
+ matricula:  "12558" 
+ nome:  "FRANCIANE APARECIDA SANTOS DE SOUZA MUNIZ" 
+ cpf:  "34692515848" 
+ valor:  211.39 
+ 191: Object   
+ matricula:  "9259" 
+ nome:  "ROSIMAR RIBEIRO DINIZ" 
+ cpf:  "30508808804" 
+ valor:  659.02 
+ 192: Object   
+ matricula:  "12418" 
+ nome:  "SIMONE JESUS SILVA RAVOS" 
+ cpf:  "35107361846" 
+ valor:  173.93 
+ 193: Object   
+ matricula:  "8326" 
+ nome:  "MARCELA APARECIDA MATIAS PEREIRA SILVA" 
+ cpf:  "32175494810" 
+ valor:  636.07 
+ 194: Object   
+ matricula:  "7098" 
+ nome:  "ELIETE MARIA DOS SANTOS" 
+ cpf:  "03533567869" 
+ valor:  615.33 
+ 195: Object   
+ matricula:  "11730" 
+ nome:  "LAURA MARIA DUARTE PEINADO" 
+ cpf:  "39789026803" 
+ valor:  200.47 
+ 196: Object   
+ matricula:  "571" 
+ nome:  "ELENICE DORATIOTTO BARTOLOMEI" 
+ cpf:  "12833457812" 
+ valor:  339.34 
+ 197: Object   
+ matricula:  "12323" 
+ nome:  "DOUGLAS HENRIQUE DOS SANTOS PESSOA" 
+ cpf:  "46479409850" 
+ valor:  233.66 
+ 198: Object   
+ matricula:  "618" 
+ nome:  "TEREZINHA DE JESUS ARANTES BARBOSA" 
+ cpf:  "17796958889" 
+ valor:  464.19 
+ numeroEvento:  "8080" 
+ descricaoEvento:  "I.N.S.S. 13º " 
+ tipoEvento:  "DESCONTO" 
+ 389: Object   
+ numeroOrganograma:  "11802004" 
+ descricaoOrganograma:  "Fundeb Especial" 
+ descricaoVinculoEmpregaticio:  "Celetista" 
+ provisaoBaixada:  false 
+ valor:  "52.06" 
+ funcionarios: Array [5]  
+ 0: Object   
+ matricula:  "7210" 
+ nome:  "MARIA CRISTINA DA MATA" 
+ cpf:  "25564294882" 
+ valor:  7.79 
+ 1: Object   
+ matricula:  "9389" 
+ nome:  "LILIAN BORGER KIMURA" 
+ cpf:  "03706031841" 
+ valor:  9.75 
+ 2: Object   
+ matricula:  "10496" 
+ nome:  "AIRAM CRISTINE BORZANI DOS VALES" 
+ cpf:  "31205460896" 
+ valor:  18.49 
+ 3: Object   
+ matricula:  "12268" 
+ nome:  "MARCO AURELIO PAULINO SANTOS" 
+ cpf:  "40751709859" 
+ valor:  11.83 
+ 4: Object   
+ matricula:  "12523" 
+ nome:  "ALESSANDRA SANTOS FARIAS" 
+ cpf:  "27333181871" 
+ valor:  4.2 
+ numeroEvento:  "2011" 
+ descricaoEvento:  "13º - MEDIA HORA EXTRA 100%" 
+ tipoEvento:  "PROVENTO" 
+ 390: Object   
+ numeroOrganograma:  "11802004" 
+ descricaoOrganograma:  "Fundeb Especial" 
+ descricaoVinculoEmpregaticio:  "Celetista" 
+ provisaoBaixada:  false 
+ valor:  "15053.72" 
+ funcionarios: Array [23]  
+ 0: Object   
+ matricula:  "10476" 
+ nome:  "IDINES SANTOS DE ANDRADE SILVA" 
+ cpf:  "18933415858" 
+ valor:  22.07 
+ 1: Object   
+ matricula:  "8359" 
+ nome:  "VANESSA APARECIDA NUNES SEPULVEDA" 
+ cpf:  "30714544817" 
+ valor:  35.84 
+ 2: Object   
+ matricula:  "7210" 
+ nome:  "MARIA CRISTINA DA MATA" 
+ cpf:  "25564294882" 
+ valor:  1262.08 
+ 3: Object   
+ matricula:  "8129" 
+ nome:  "ANDREIA MEIRE CESARINO" 
+ cpf:  "85476137653" 
+ valor:  443.63 
+ 4: Object   
+ matricula:  "10242" 
+ nome:  "LUIS CARLOS PINHEIRO" 
+ cpf:  "13415500870" 
+ valor:  2519.12 
+ 5: Object   
+ matricula:  "12393" 
+ nome:  "KELLY RAMOS DE SOUSA NERIS" 
+ cpf:  "35434022858" 
+ valor:  16.05 
+ 6: Object   
+ matricula:  "11724" 
+ nome:  "MARTA DE CARVALHO" 
+ cpf:  "77325494815" 
+ valor:  14.39 
+ 7: Object   
+ matricula:  "12269" 
+ nome:  "MARILZA SATHLER DE SOUZA" 
+ cpf:  "26730347813" 
+ valor:  1837.64 
+ 8: Object   
+ matricula:  "131911" 
+ nome:  "BEATRIZ DE OLIVEIRA TEIXEIRA" 
+ cpf:  "44989499867" 
+ valor:  91.07 
+ 9: Object   
+ matricula:  "131912" 
+ nome:  "JULIANA DE ANDRADE SILVA PEDROSO" 
+ cpf:  "42104611806" 
+ valor:  70.62 
+ 10: Object   
+ matricula:  "12209" 
+ nome:  "MARCO ANTONIO BATISTA RAMOS" 
+ cpf:  "26879188818" 
+ valor:  32.1 
+ 11: Object   
+ matricula:  "12195" 
+ nome:  "MARIA DE LOURDES DA SILVA" 
+ cpf:  "24782065876" 
+ valor:  25.68 
+ 12: Object   
+ matricula:  "131757" 
+ nome:  "LETICIA LEITE BATISTA NASCIMENTO" 
+ cpf:  "44665031843" 
+ valor:  17.65 
+ 13: Object   
+ matricula:  "12516" 
+ nome:  "AMANDA MACEDO SANTOS" 
+ cpf:  "04847080580" 
+ valor:  469.42 
+ 14: Object   
+ matricula:  "8174" 
+ nome:  "VANESSA FERREIRA DIAS BARBIERI" 
+ cpf:  "30974604895" 
+ valor:  715.32 
+ 15: Object   
+ matricula:  "6005" 
+ nome:  "HALINE SALGADO MARQUES" 
+ cpf:  "28731237886" 
+ valor:  34.91 
+ 16: Object   
+ matricula:  "8507" 
+ nome:  "GLEISE CRISTINA PRUDENCIANO" 
+ cpf:  "08219165804" 
+ valor:  87.36 
+ 17: Object   
+ matricula:  "5928" 
+ nome:  "SERGIO DE OLIVEIRA SALAS" 
+ cpf:  "24724772875" 
+ valor:  776.38 
+ 18: Object   
+ matricula:  "12446" 
+ nome:  "SILVANIA GONCALVES SANTOS" 
+ cpf:  "22089376864" 
+ valor:  7.37 
+ 19: Object   
+ matricula:  "8294" 
+ nome:  "EDERLI PELOSI FREIRE MONAY" 
+ cpf:  "08500816880" 
+ valor:  2467.7 
+ 20: Object   
+ matricula:  "6396" 
+ nome:  "TEREZINHA APARECIDA PIRES BARBOSA TREVELINI" 
+ cpf:  "07695693820" 
+ valor:  4019.92 
+ 21: Object   
+ matricula:  "9787" 
+ nome:  "MIDIAN SILVA SANTOS TEODORO" 
+ cpf:  "41198036869" 
+ valor:  72.84 
+ 22: Object   
+ matricula:  "11736" 
+ nome:  "SILVIA REGINA PINHO DE CARVALHO" 
+ cpf:  "08465549842" 
+ valor:  14.56 
+ numeroEvento:  "2010" 
+ descricaoEvento:  "13º - MEDIA HORA EXTRA 50%" 
+ tipoEvento:  "PROVENTO" 
+ 391: Object   
+ numeroOrganograma:  "11802004" 
+ descricaoOrganograma:  "Fundeb Especial" 
+ descricaoVinculoEmpregaticio:  "Celetista" 
+ provisaoBaixada:  false 
+ valor:  "561181.67" 
+ funcionarios: Array [199]  
+ 0: Object   
+ matricula:  "10103" 
+ nome:  "EDILAINE ROCHA MOURA BAPTISTA" 
+ cpf:  "12861826894" 
+ valor:  2081.16 
+ 1: Object   
+ matricula:  "1088" 
+ nome:  "EVELY BEDORE" 
+ cpf:  "27839514871" 
+ valor:  2601.63 
+ 2: Object   
+ matricula:  "1093" 
+ nome:  "MARIA ROSELUCIA RODRIGUES DA SILVA" 
+ cpf:  "11313286800" 
+ valor:  2601.87 
+ 3: Object   
+ matricula:  "9301" 
+ nome:  "MICHELE LOPES PADILHA" 
+ cpf:  "33254488873" 
+ valor:  770.47 
+ 4: Object   
+ matricula:  "9317" 
+ nome:  "LETICIA COELHO RUIZ" 
+ cpf:  "21834515807" 
+ valor:  5078.27 
+ 5: Object   
+ matricula:  "8288" 
+ nome:  "ANA SILVIA DE PAIVA E SILVA" 
+ cpf:  "31679839810" 
+ valor:  5202.31 
+ 6: Object   
+ matricula:  "5800" 
+ nome:  "SANDRA APARECIDA MORA DA COSTA" 
+ cpf:  "17795269893" 
+ valor:  2601.63 
+ 7: Object   
+ matricula:  "10476" 
+ nome:  "IDINES SANTOS DE ANDRADE SILVA" 
+ cpf:  "18933415858" 
+ valor:  5230.58 
+ 8: Object   
+ matricula:  "4248" 
+ nome:  "CELIA REGINA CORGA DA SILVA ANGELO" 
+ cpf:  "02983250806" 
+ valor:  5649.34 
+ 9: Object   
+ matricula:  "8359" 
+ nome:  "VANESSA APARECIDA NUNES SEPULVEDA" 
+ cpf:  "30714544817" 
+ valor:  5549.13 
+ 10: Object   
+ matricula:  "6956" 
+ nome:  "JOSETI APARECIDA DA SILVA BORGES" 
+ cpf:  "63613530953" 
+ valor:  5230.58 
+ 11: Object   
+ matricula:  "4439" 
+ nome:  "AVANIL APARECIDA GONZAGA" 
+ cpf:  "10011417846" 
+ valor:  5818.85 
+ 12: Object   
+ matricula:  "7131" 
+ nome:  "FRANCIS CARLA FILIPE" 
+ cpf:  "26690727807" 
+ valor:  1155.55 
+ 13: Object   
+ matricula:  "7210" 
+ nome:  "MARIA CRISTINA DA MATA" 
+ cpf:  "25564294882" 
+ valor:  4622.19 
+ 14: Object   
+ matricula:  "8115" 
+ nome:  "VANESSA FALCAO BARELLA" 
+ cpf:  "28815687858" 
+ valor:  5387.5 
+ 15: Object   
+ matricula:  "8129" 
+ nome:  "ANDREIA MEIRE CESARINO" 
+ cpf:  "85476137653" 
+ valor:  5050.78 
+ 16: Object   
+ matricula:  "6218" 
+ nome:  "ANGELINA MARCELIA LESSART BRANDAO" 
+ cpf:  "45749485749" 
+ valor:  4930.33 
+ 17: Object   
+ matricula:  "11484" 
+ nome:  "CRISTIAN DE SOUSA FREITAS" 
+ cpf:  "47015113821" 
+ valor:  1849.12 
+ 18: Object   
+ matricula:  "10242" 
+ nome:  "LUIS CARLOS PINHEIRO" 
+ cpf:  "13415500870" 
+ valor:  5230.58 
+ 19: Object   
+ matricula:  "11197" 
+ nome:  "MARIA CECILIA REGIS CHAMA PUGA" 
+ cpf:  "12519150866" 
+ valor:  4930.33 
+ 20: Object   
+ matricula:  "9991" 
+ nome:  "MARCIO ROGERIO DE OLIVEIRA AZEVEDO" 
+ cpf:  "15868619803" 
+ valor:  2601.87 
+ 21: Object   
+ matricula:  "9389" 
+ nome:  "LILIAN BORGER KIMURA" 
+ cpf:  "03706031841" 
+ valor:  1849.12 
+ 22: Object   
+ matricula:  "11291" 
+ nome:  "ANA SILVIA DE PAIVA E SILVA" 
+ cpf:  "31679839810" 
+ valor:  4622.19 
+ 23: Object   
+ matricula:  "11468" 
+ nome:  "MARIA NEIDE ROCHA TAVARES SOUTELO" 
+ cpf:  "07600749840" 
+ valor:  4930.33 
+ 24: Object   
+ matricula:  "11472" 
+ nome:  "ANDRESSA DE LIMA TEIXEIRA QUIRINO" 
+ cpf:  "42700870808" 
+ valor:  2385.05 
+ 25: Object   
+ matricula:  "10496" 
+ nome:  "AIRAM CRISTINE BORZANI DOS VALES" 
+ cpf:  "31205460896" 
+ valor:  5649.34 
+ 26: Object   
+ matricula:  "10646" 
+ nome:  "ROSANA APARECIDA MONTEOLIVA" 
+ cpf:  "07785432856" 
+ valor:  1849.12 
+ 27: Object   
+ matricula:  "11747" 
+ nome:  "KARINA VELOSO DO VALLE" 
+ cpf:  "34942281830" 
+ valor:  2601.87 
+ 28: Object   
+ matricula:  "11746" 
+ nome:  "ESTEFANI GRAZIELI DE OLIVEIRA PEIXOTO" 
+ cpf:  "44509805810" 
+ valor:  2601.87 
+ 29: Object   
+ matricula:  "12002" 
+ nome:  "ADRIANA APARECIDA PIRES SERAFIM" 
+ cpf:  "40486928870" 
+ valor:  2601.87 
+ 30: Object   
+ matricula:  "12268" 
+ nome:  "MARCO AURELIO PAULINO SANTOS" 
+ cpf:  "40751709859" 
+ valor:  2601.87 
+ 31: Object   
+ matricula:  "12358" 
+ nome:  "ISABEL CRISTINA VERONEZI OLIVEIRA" 
+ cpf:  "28592954886" 
+ valor:  4622.19 
+ 32: Object   
+ matricula:  "12400" 
+ nome:  "LUCIMARA DOS SANTOS PEREIRA" 
+ cpf:  "33951201800" 
+ valor:  2601.87 
+ 33: Object   
+ matricula:  "12393" 
+ nome:  "KELLY RAMOS DE SOUSA NERIS" 
+ cpf:  "35434022858" 
+ valor:  4930.33 
+ 34: Object   
+ matricula:  "12415" 
+ nome:  "LETICIA MILENE BETTINI" 
+ cpf:  "52704689806" 
+ valor:  2601.87 
+ 35: Object   
+ matricula:  "11325" 
+ nome:  "THAIS FRANCIELE VALINHOS" 
+ cpf:  "43650316862" 
+ valor:  4930.33 
+ 36: Object   
+ matricula:  "11947" 
+ nome:  "SUZY DARLEM PRETTI" 
+ cpf:  "29742241805" 
+ valor:  2601.87 
+ 37: Object   
+ matricula:  "11675" 
+ nome:  "HENRIQUE AUGUSTO BORGES DE CASTRO" 
+ cpf:  "17206024840" 
+ valor:  2601.87 
+ 38: Object   
+ matricula:  "11680" 
+ nome:  "ALINE GOUVEIA VIANA KATO" 
+ cpf:  "22970830841" 
+ valor:  2601.87 
+ 39: Object   
+ matricula:  "11524" 
+ nome:  "CINTIA DE MORAIS COUTINHO" 
+ cpf:  "45242758864" 
+ valor:  3106.71 
+ 40: Object   
+ matricula:  "12603" 
+ nome:  "LUARA UZZO GARCIA" 
+ cpf:  "42940525897" 
+ valor:  2601.87 
+ 41: Object   
+ matricula:  "11713" 
+ nome:  "KELLY PALOMA RAMALHO MACHADO" 
+ cpf:  "44193133826" 
+ valor:  2601.87 
+ 42: Object   
+ matricula:  "11725" 
+ nome:  "EDNA CORREIA DE ASSIS" 
+ cpf:  "18186430814" 
+ valor:  2601.87 
+ 43: Object   
+ matricula:  "11459" 
+ nome:  "JOAO PAULO BATISTA GOMES" 
+ cpf:  "33678310850" 
+ valor:  2601.87 
+ 44: Object   
+ matricula:  "11724" 
+ nome:  "MARTA DE CARVALHO" 
+ cpf:  "77325494815" 
+ valor:  4930.33 
+ 45: Object   
+ matricula:  "11743" 
+ nome:  "ITALO GIULIANO BARSAN" 
+ cpf:  "48480520841" 
+ valor:  2601.87 
+ 46: Object   
+ matricula:  "12054" 
+ nome:  "FRANCIELE MARQUES LIMA" 
+ cpf:  "07889362986" 
+ valor:  2081.16 
+ 47: Object   
+ matricula:  "11985" 
+ nome:  "MARCIA APARECIDA DE ALMEIDA" 
+ cpf:  "31364670860" 
+ valor:  2601.87 
+ 48: Object   
+ matricula:  "11990" 
+ nome:  "ARIEL FERNANDO COLLI DO VALLE" 
+ cpf:  "38700683884" 
+ valor:  2601.87 
+ 49: Object   
+ matricula:  "11501" 
+ nome:  "JESSICA DE OLIVEIRA XAVIER" 
+ cpf:  "40573883890" 
+ valor:  1849.12 
+ 50: Object   
+ matricula:  "12231" 
+ nome:  "LAYZA MARCELA SILVEIRA PEREIRA" 
+ cpf:  "46468292824" 
+ valor:  2601.87 
+ 51: Object   
+ matricula:  "11998" 
+ nome:  "REGINA DE CAMARGO CORREA" 
+ cpf:  "29882873847" 
+ valor:  2601.87 
+ 52: Object   
+ matricula:  "11991" 
+ nome:  "CLAUDIO TERRANA" 
+ cpf:  "07643138869" 
+ valor:  2601.87 
+ 53: Object   
+ matricula:  "12265" 
+ nome:  "BEATRIZ FREITAS VALLIM" 
+ cpf:  "44148417802" 
+ valor:  2385.05 
+ 54: Object   
+ matricula:  "12271" 
+ nome:  "FRANCIS TORQUATO BORLINO DOS SANTOS" 
+ cpf:  "26983462807" 
+ valor:  2601.87 
+ 55: Object   
+ matricula:  "12005" 
+ nome:  "LUIZA HELENA CASSIMIRO" 
+ cpf:  "18776358801" 
+ valor:  2601.87 
+ 56: Object   
+ matricula:  "12025" 
+ nome:  "DANIELA INGLES NOGUEIRA" 
+ cpf:  "32875075837" 
+ valor:  867.29 
+ 57: Object   
+ matricula:  "11707" 
+ nome:  "LUCAS FERREIRA DE OLIVEIRA" 
+ cpf:  "41182688845" 
+ valor:  2601.87 
+ 58: Object   
+ matricula:  "11894" 
+ nome:  "VERONICA MOREIRA CONCEICAO COUTO" 
+ cpf:  "28005679882" 
+ valor:  2601.87 
+ 59: Object   
+ matricula:  "11804" 
+ nome:  "SANDRA EIKO YOSHIDA SASAHARA" 
+ cpf:  "25819111826" 
+ valor:  2601.87 
+ 60: Object   
+ matricula:  "11813" 
+ nome:  "NATALIA DOS SANTOS HISAOKA" 
+ cpf:  "38385547878" 
+ valor:  2601.87 
+ 61: Object   
+ matricula:  "12266" 
+ nome:  "ELIANE MARIA BARBOSA" 
+ cpf:  "24887302894" 
+ valor:  2601.87 
+ 62: Object   
+ matricula:  "12269" 
+ nome:  "MARILZA SATHLER DE SOUZA" 
+ cpf:  "26730347813" 
+ valor:  4622.19 
+ 63: Object   
+ matricula:  "11552" 
+ nome:  "ROSA HELENA LOPES" 
+ cpf:  "26658326827" 
+ valor:  1849.12 
+ 64: Object   
+ matricula:  "131690" 
+ nome:  "GIOVANA SANTOS DOS REIS" 
+ cpf:  "44752442850" 
+ valor:  1078.65 
+ 65: Object   
+ matricula:  "12442" 
+ nome:  "VALERIA CRISTINA BIANCHI" 
+ cpf:  "26910869842" 
+ valor:  1849.12 
+ 66: Object   
+ matricula:  "12452" 
+ nome:  "RAVI XAVIER EUGENIO LOBO/ROSANA XAVIER EUGENIO" 
+ cpf:  "39993650803" 
+ valor:  2168.22 
+ 67: Object   
+ matricula:  "12413" 
+ nome:  "GLAUCIA ALVES DE SIQUEIRA" 
+ cpf:  "35151830864" 
+ valor:  2601.87 
+ 68: Object   
+ matricula:  "12419" 
+ nome:  "ADRIANA ALITZA SANTOS ROCHA" 
+ cpf:  "27461962809" 
+ valor:  1849.12 
+ 69: Object   
+ matricula:  "12423" 
+ nome:  "CLARETE DE LIMA" 
+ cpf:  "10793547865" 
+ valor:  1849.12 
+ 70: Object   
+ matricula:  "12417" 
+ nome:  "NIDIA MARIA DE OLIVEIRA MENDES" 
+ cpf:  "51721178813" 
+ valor:  2601.87 
+ 71: Object   
+ matricula:  "12431" 
+ nome:  "JOSEFA BISPO DA COSTA RAMOS" 
+ cpf:  "78770602468" 
+ valor:  1849.12 
+ 72: Object   
+ matricula:  "12416" 
+ nome:  "MICHELLE ELISA SAITO FAGUNDES PINHEIRO" 
+ cpf:  "24688807813" 
+ valor:  2601.87 
+ 73: Object   
+ matricula:  "131865" 
+ nome:  "IDIARA SANTOS DE JESUS" 
+ cpf:  "16588217773" 
+ valor:  867.29 
+ 74: Object   
+ matricula:  "11712" 
+ nome:  "BIANCA APARECIDA GOIS SOARES" 
+ cpf:  "44321364809" 
+ valor:  2601.87 
+ 75: Object   
+ matricula:  "11944" 
+ nome:  "KAREN CRISTIANE DO PRADO CONELHEIRO" 
+ cpf:  "36600177870" 
+ valor:  2601.87 
+ 76: Object   
+ matricula:  "11709" 
+ nome:  "MARCIA DE SOUZA MENDES" 
+ cpf:  "33991417855" 
+ valor:  2601.87 
+ 77: Object   
+ matricula:  "131708" 
+ nome:  "DEBORA VIEIRA DA SILVA" 
+ cpf:  "46511586847" 
+ valor:  1517.76 
+ 78: Object   
+ matricula:  "131728" 
+ nome:  "ROSELENE DOS SANTOS" 
+ cpf:  "32818853818" 
+ valor:  1517.76 
+ 79: Object   
+ matricula:  "12508" 
+ nome:  "NICOLY EDUARDA SANTOS FARIA" 
+ cpf:  "36827225801" 
+ valor:  1849.12 
+ 80: Object   
+ matricula:  "12494" 
+ nome:  "MARILAN RIBEIRO DE OLIVEIRA ALBUQUERQUE" 
+ cpf:  "13472555831" 
+ valor:  4930.33 
+ 81: Object   
+ matricula:  "12369" 
+ nome:  "FERNANDA DE MORAES FERREIRA MARIANO" 
+ cpf:  "32855968801" 
+ valor:  2601.87 
+ 82: Object   
+ matricula:  "11942" 
+ nome:  "CLAUDIA LUCIANA MAIA MACHADO" 
+ cpf:  "12056172801" 
+ valor:  2601.87 
+ 83: Object   
+ matricula:  "11916" 
+ nome:  "KARLA SANAVIO DA SILVA" 
+ cpf:  "61487370350" 
+ valor:  2601.87 
+ 84: Object   
+ matricula:  "12327" 
+ nome:  "LEONARDO LUCIANO MARQUES DA SILVA" 
+ cpf:  "48729447801" 
+ valor:  2601.87 
+ 85: Object   
+ matricula:  "12441" 
+ nome:  "SIBELI APARECIDA OLIVEIRA SOLDI MUNIZ" 
+ cpf:  "33366114827" 
+ valor:  1849.12 
+ 86: Object   
+ matricula:  "12553" 
+ nome:  "EMANUELA MOREIRA DE QUEIROZ" 
+ cpf:  "01051812348" 
+ valor:  924.56 
+ 87: Object   
+ matricula:  "12236" 
+ nome:  "GABRIELA CRISTINA BARBOSA" 
+ cpf:  "36892454860" 
+ valor:  2601.87 
+ 88: Object   
+ matricula:  "12238" 
+ nome:  "ERICK RAMON REIS VIRGINIO DOS SANTOS" 
+ cpf:  "49213529848" 
+ valor:  2601.87 
+ 89: Object   
+ matricula:  "12259" 
+ nome:  "PAMELA ISABEL RUBIO RUBIO" 
+ cpf:  "19572222805" 
+ valor:  2601.87 
+ 90: Object   
+ matricula:  "131646" 
+ nome:  "GIOVANNA EMANUELY PASSOS" 
+ cpf:  "55957590894" 
+ valor:  1951.4 
+ 91: Object   
+ matricula:  "131667" 
+ nome:  "FRANCISLAINE DE OLIVEIRA FROSSARD BRUM" 
+ cpf:  "09094641704" 
+ valor:  1734.58 
+ 92: Object   
+ matricula:  "131668" 
+ nome:  "ROSE MERY NUNES DE SOUZA" 
+ cpf:  "34921856818" 
+ valor:  1734.58 
+ 93: Object   
+ matricula:  "131642" 
+ nome:  "ANDRE LUIS PRETO SILVA" 
+ cpf:  "49037739814" 
+ valor:  1951.4 
+ 94: Object   
+ matricula:  "12298" 
+ nome:  "BEATRIZ FERNANDES GISMENE" 
+ cpf:  "37473776886" 
+ valor:  2601.87 
+ 95: Object   
+ matricula:  "131910" 
+ nome:  "EMMANUELLE ROBERTA DA SILVA" 
+ cpf:  "44247510827" 
+ valor:  1232.58 
+ 96: Object   
+ matricula:  "131911" 
+ nome:  "BEATRIZ DE OLIVEIRA TEIXEIRA" 
+ cpf:  "44989499867" 
+ valor:  1232.58 
+ 97: Object   
+ matricula:  "131917" 
+ nome:  "ROBERTA GOMES COELHO DA CUNHA" 
+ cpf:  "29392060823" 
+ valor:  1232.58 
+ 98: Object   
+ matricula:  "131894" 
+ nome:  "ANDERSON DA ROCHA" 
+ cpf:  "24986736876" 
+ valor:  650.47 
+ 99: Object   
+ matricula:  "131912" 
+ nome:  "JULIANA DE ANDRADE SILVA PEDROSO" 
+ cpf:  "42104611806" 
+ valor:  1232.58 
+ 100: Object   
+ matricula:  "12209" 
+ nome:  "MARCO ANTONIO BATISTA RAMOS" 
+ cpf:  "26879188818" 
+ valor:  4930.33 
+ 101: Object   
+ matricula:  "12195" 
+ nome:  "MARIA DE LOURDES DA SILVA" 
+ cpf:  "24782065876" 
+ valor:  4930.33 
+ 102: Object   
+ matricula:  "12225" 
+ nome:  "KATIA CRISTINA MACHADO RIBEIRO" 
+ cpf:  "45123553835" 
+ valor:  2601.87 
+ 103: Object   
+ matricula:  "12221" 
+ nome:  "RAFAEL SILVA BATISTA DOS SANTOS" 
+ cpf:  "36185516810" 
+ valor:  2601.87 
+ 104: Object   
+ matricula:  "12226" 
+ nome:  "SERGIO AUGUSTO GEREMIAS MARQUES" 
+ cpf:  "27257192839" 
+ valor:  2601.87 
+ 105: Object   
+ matricula:  "12215" 
+ nome:  "THAIS FERNANDA DE LIMA BELVIZZO" 
+ cpf:  "43467092810" 
+ valor:  2601.87 
+ 106: Object   
+ matricula:  "131749" 
+ nome:  "TIAGO HENRIQUE MORAES SANTOS" 
+ cpf:  "42331446881" 
+ valor:  1300.94 
+ 107: Object   
+ matricula:  "12878" 
+ nome:  "FRANCISCO FIDELES ALVES JUNIOR" 
+ cpf:  "38729554896" 
+ valor:  2385.05 
+ 108: Object   
+ matricula:  "12884" 
+ nome:  "ESTER VIEIRA CUNHA MARTINS" 
+ cpf:  "35782135867" 
+ valor:  2385.05 
+ 109: Object   
+ matricula:  "131835" 
+ nome:  "PABLO HENRIQUE SILVEIRA" 
+ cpf:  "48291235830" 
+ valor:  616.37 
+ 110: Object   
+ matricula:  "131755" 
+ nome:  "JENIFFER SILVEIRA CHAGAS" 
+ cpf:  "56457334873" 
+ valor:  1300.94 
+ 111: Object   
+ matricula:  "131758" 
+ nome:  "MIRIAM DA SILVA ASSIS" 
+ cpf:  "92691870200" 
+ valor:  1300.94 
+ 112: Object   
+ matricula:  "131761" 
+ nome:  "SUSANA MARIA DOS SANTOS" 
+ cpf:  "29121584869" 
+ valor:  924.56 
+ 113: Object   
+ matricula:  "131757" 
+ nome:  "LETICIA LEITE BATISTA NASCIMENTO" 
+ cpf:  "44665031843" 
+ valor:  2542.2 
+ 114: Object   
+ matricula:  "11960" 
+ nome:  "RAQUEL RODRIGUES GRACIA" 
+ cpf:  "82248850115" 
+ valor:  2601.87 
+ 115: Object   
+ matricula:  "11952" 
+ nome:  "LUCIANE APARECIDA DE FREITAS BRAJON" 
+ cpf:  "25359911875" 
+ valor:  2081.16 
+ 116: Object   
+ matricula:  "12983" 
+ nome:  "ELAINE FERREIRA DE SOUZA" 
+ cpf:  "15556001740" 
+ valor:  1951.4 
+ 117: Object   
+ matricula:  "131619" 
+ nome:  "SUELI DO PRADO" 
+ cpf:  "15465973870" 
+ valor:  1386.84 
+ 118: Object   
+ matricula:  "11893" 
+ nome:  "ANDRESSA BARBOSA DA SILVA" 
+ cpf:  "47944671841" 
+ valor:  2601.87 
+ 119: Object   
+ matricula:  "12481" 
+ nome:  "REBECA AUGUSTO GERALDO DOS SANTOS" 
+ cpf:  "42414673850" 
+ valor:  4622.19 
+ 120: Object   
+ matricula:  "12477" 
+ nome:  "GIOVANA DE MORAES" 
+ cpf:  "44832407813" 
+ valor:  2601.87 
+ 121: Object   
+ matricula:  "131694" 
+ nome:  "DANIELLI MIRANDA DA SILVA" 
+ cpf:  "49098507832" 
+ valor:  1517.76 
+ 122: Object   
+ matricula:  "131689" 
+ nome:  "MARIA APARECIDA DA SILVA" 
+ cpf:  "40946245894" 
+ valor:  1078.65 
+ 123: Object   
+ matricula:  "131693" 
+ nome:  "FRANCISCA ODILANIA DE OLIVEIRA SILVA" 
+ cpf:  "00072445335" 
+ valor:  1517.76 
+ 124: Object   
+ matricula:  "131698" 
+ nome:  "MARIANA APARECIDA DA SILVA" 
+ cpf:  "34452461816" 
+ valor:  1078.65 
+ 125: Object   
+ matricula:  "131810" 
+ nome:  "EDNA PEREIRA LIMA" 
+ cpf:  "27548215894" 
+ valor:  770.47 
+ 126: Object   
+ matricula:  "131805" 
+ nome:  "BEATRIZ DE CASSIA MARQUES" 
+ cpf:  "41806046806" 
+ valor:  770.47 
+ 127: Object   
+ matricula:  "131795" 
+ nome:  "SIMONE GRAZIELA PALINI" 
+ cpf:  "30413431851" 
+ valor:  1300.94 
+ 128: Object   
+ matricula:  "12324" 
+ nome:  "ISABELLE LUIZ GARCIA" 
+ cpf:  "40393353842" 
+ valor:  2601.87 
+ 129: Object   
+ matricula:  "12336" 
+ nome:  "CLEBER LUCAS SANTANA BELO" 
+ cpf:  "17178057793" 
+ valor:  2601.87 
+ 130: Object   
+ matricula:  "12979" 
+ nome:  "ENIO RANDI" 
+ cpf:  "10715752600" 
+ valor:  1386.84 
+ 131: Object   
+ matricula:  "12981" 
+ nome:  "JACQUELINE AMELIA LEITE" 
+ cpf:  "18930655882" 
+ valor:  1386.84 
+ 132: Object   
+ matricula:  "12540" 
+ nome:  "TEREZA CRISTINA DOS SANTOS TELLES" 
+ cpf:  "46981340801" 
+ valor:  1849.12 
+ 133: Object   
+ matricula:  "12542" 
+ nome:  "GABRIEL HENRIQUE AZEVEDO GONCALVES" 
+ cpf:  "46705097809" 
+ valor:  2601.87 
+ 134: Object   
+ matricula:  "12543" 
+ nome:  "MARCIA CRISTINA MOURA SOUZA ALVES" 
+ cpf:  "13227208784" 
+ valor:  2601.87 
+ 135: Object   
+ matricula:  "12539" 
+ nome:  "SANDRA REGINA GODOY BARBOSA" 
+ cpf:  "18193694805" 
+ valor:  1849.12 
+ 136: Object   
+ matricula:  "12954" 
+ nome:  "GUSTAVO ZINI FERNANDES COSTA" 
+ cpf:  "47877918852" 
+ valor:  1951.4 
+ 137: Object   
+ matricula:  "12955" 
+ nome:  "ELIETE APARECIDA DIAS OLIVEIRA" 
+ cpf:  "25459431859" 
+ valor:  1951.4 
+ 138: Object   
+ matricula:  "12945" 
+ nome:  "VERA BIAZETTO" 
+ cpf:  "07786428879" 
+ valor:  1386.84 
+ 139: Object   
+ matricula:  "12534" 
+ nome:  "ENZO ALMEIDA BRILHA SANTOS" 
+ cpf:  "51977188893" 
+ valor:  1849.12 
+ 140: Object   
+ matricula:  "12521" 
+ nome:  "ALINE LEITE MARQUES MENEZES" 
+ cpf:  "53336766826" 
+ valor:  1849.12 
+ 141: Object   
+ matricula:  "12512" 
+ nome:  "ANDRE RICARDO CAVALCANTE SILVA" 
+ cpf:  "51528849841" 
+ valor:  1849.12 
+ 142: Object   
+ matricula:  "12523" 
+ nome:  "ALESSANDRA SANTOS FARIAS" 
+ cpf:  "27333181871" 
+ valor:  1849.12 
+ 143: Object   
+ matricula:  "12533" 
+ nome:  "BEATRIZ LUNA LENOTTI" 
+ cpf:  "51708160817" 
+ valor:  1849.12 
+ 144: Object   
+ matricula:  "12577" 
+ nome:  "BRENDA KAROLYNE SANTOS DA COSTA" 
+ cpf:  "49904412812" 
+ valor:  1849.12 
+ 145: Object   
+ matricula:  "12516" 
+ nome:  "AMANDA MACEDO SANTOS" 
+ cpf:  "04847080580" 
+ valor:  4930.33 
+ 146: Object   
+ matricula:  "11829" 
+ nome:  "ALINE MAIARA SILVA DI SARNO" 
+ cpf:  "38492735805" 
+ valor:  2601.87 
+ 147: Object   
+ matricula:  "9788" 
+ nome:  "DANIELA APARECIDA MANOEL CAETANO" 
+ cpf:  "27687010841" 
+ valor:  4086.39 
+ 148: Object   
+ matricula:  "11703" 
+ nome:  "RAFAEL YOITI OJIMA" 
+ cpf:  "22964067856" 
+ valor:  2601.87 
+ 149: Object   
+ matricula:  "11982" 
+ nome:  "GABRIELA MOREIRA DE SOUSA CARVALHO" 
+ cpf:  "43872585860" 
+ valor:  2601.87 
+ 150: Object   
+ matricula:  "8174" 
+ nome:  "VANESSA FERREIRA DIAS BARBIERI" 
+ cpf:  "30974604895" 
+ valor:  5549.13 
+ 151: Object   
+ matricula:  "1330" 
+ nome:  "ELISABETH BENEDITA TEREZA VERGARA BARBOSA" 
+ cpf:  "07785439869" 
+ valor:  2601.63 
+ 152: Object   
+ matricula:  "8595" 
+ nome:  "MONICA MOREIRA TAVARES" 
+ cpf:  "09073497817" 
+ valor:  5387.5 
+ 153: Object   
+ matricula:  "1619" 
+ nome:  "RITA DE CASSIA SCANFELA" 
+ cpf:  "18620169840" 
+ valor:  5230.58 
+ 154: Object   
+ matricula:  "6005" 
+ nome:  "HALINE SALGADO MARQUES" 
+ cpf:  "28731237886" 
+ valor:  2601.63 
+ 155: Object   
+ matricula:  "6682" 
+ nome:  "MIRELLA RAIKA DE NOVAES GONZAGA COCO" 
+ cpf:  "03738216626" 
+ valor:  5202.31 
+ 156: Object   
+ matricula:  "8507" 
+ nome:  "GLEISE CRISTINA PRUDENCIANO" 
+ cpf:  "08219165804" 
+ valor:  5549.13 
+ 157: Object   
+ matricula:  "6891" 
+ nome:  "GILCELENE DE FATIMA MARTINS SOUZA" 
+ cpf:  "13212658835" 
+ valor:  3062.22 
+ 158: Object   
+ matricula:  "5928" 
+ nome:  "SERGIO DE OLIVEIRA SALAS" 
+ cpf:  "24724772875" 
+ valor:  5078.27 
+ 159: Object   
+ matricula:  "11748" 
+ nome:  "RITA DE CASSIA FRANCO" 
+ cpf:  "04415776604" 
+ valor:  2601.87 
+ 160: Object   
+ matricula:  "12273" 
+ nome:  "LARISSA CONCEICAO CAMPOS SILVA" 
+ cpf:  "47148916852" 
+ valor:  2601.87 
+ 161: Object   
+ matricula:  "11379" 
+ nome:  "VANESSA JACOB SUAIDE" 
+ cpf:  "24586490845" 
+ valor:  4930.33 
+ 162: Object   
+ matricula:  "11588" 
+ nome:  "CARLA DOMINGUES MARIN DIAS" 
+ cpf:  "26455532813" 
+ valor:  1078.65 
+ 163: Object   
+ matricula:  "12446" 
+ nome:  "SILVANIA GONCALVES SANTOS" 
+ cpf:  "22089376864" 
+ valor:  1849.12 
+ 164: Object   
+ matricula:  "5741" 
+ nome:  "VIVIAN CASTELO BRANCO GALVAO" 
+ cpf:  "15588821890" 
+ valor:  5078.27 
+ 165: Object   
+ matricula:  "8294" 
+ nome:  "EDERLI PELOSI FREIRE MONAY" 
+ cpf:  "08500816880" 
+ valor:  5549.13 
+ 166: Object   
+ matricula:  "12275" 
+ nome:  "HELENA MARIA FERNANDES DORATIOTTO" 
+ cpf:  "66666210697" 
+ valor:  2601.87 
+ 167: Object   
+ matricula:  "6396" 
+ nome:  "TEREZINHA APARECIDA PIRES BARBOSA TREVELINI" 
+ cpf:  "07695693820" 
+ valor:  5387.5 
+ 168: Object   
+ matricula:  "12918" 
+ nome:  "ANA PAULA TELES" 
+ cpf:  "38092983879" 
+ valor:  1386.84 
+ 169: Object   
+ matricula:  "11869" 
+ nome:  "PAULA LEONARDI DE LIMA" 
+ cpf:  "32411745818" 
+ valor:  2601.87 
+ 170: Object   
+ matricula:  "9787" 
+ nome:  "MIDIAN SILVA SANTOS TEODORO" 
+ cpf:  "41198036869" 
+ valor:  5549.11 
+ 171: Object   
+ matricula:  "9016" 
+ nome:  "PRISCILA DE MORAES DOMINGUES" 
+ cpf:  "12057074846" 
+ valor:  5230.58 
+ 172: Object   
+ matricula:  "12218" 
+ nome:  "IRENE ILARIO DE LIMA REGIS" 
+ cpf:  "27889273800" 
+ valor:  2601.87 
+ 173: Object   
+ matricula:  "11711" 
+ nome:  "ALINE LIZANDRA NASCIMENTO" 
+ cpf:  "10850245630" 
+ valor:  2601.87 
+ 174: Object   
+ matricula:  "131695" 
+ nome:  "ANGELA DE CASSIA SILVA" 
+ cpf:  "30421959886" 
+ valor:  1517.76 
+ 175: Object   
+ matricula:  "11868" 
+ nome:  "ANA CRISTINA ALVES MARCONDES" 
+ cpf:  "29556179895" 
+ valor:  2601.87 
+ 176: Object   
+ matricula:  "9930" 
+ nome:  "MARIA HELENA MADEIRA" 
+ cpf:  "24920582803" 
+ valor:  2601.87 
+ 177: Object   
+ matricula:  "11512" 
+ nome:  "VALERIA CRISTINA DIAS PEREIRA" 
+ cpf:  "33232028802" 
+ valor:  2601.87 
+ 178: Object   
+ matricula:  "11498" 
+ nome:  "CARMEM JOSE PARIZ MACHADO" 
+ cpf:  "34444000805" 
+ valor:  4930.33 
+ 179: Object   
+ matricula:  "131785" 
+ nome:  "SILVANIA COSTA FRANCA" 
+ cpf:  "27641138896" 
+ valor:  924.56 
+ 180: Object   
+ matricula:  "9253" 
+ nome:  "ADRIANA FERREIRA DA SILVA MARTINS" 
+ cpf:  "24797323809" 
+ valor:  5078.27 
+ 181: Object   
+ matricula:  "6627" 
+ nome:  "MARIA PAULA NASCIMENTO WADA" 
+ cpf:  "08164788805" 
+ valor:  5230.58 
+ 182: Object   
+ matricula:  "12414" 
+ nome:  "APOLLO BETTINI/LARISSA MELINA BETTINI" 
+ cpf:  "52704658846" 
+ valor:  2601.87 
+ 183: Object   
+ matricula:  "8902" 
+ nome:  "JACKELINE DE PAULO GIROTO" 
+ cpf:  "18083303828" 
+ valor:  5230.58 
+ 184: Object   
+ matricula:  "11963" 
+ nome:  "CICERA ROSILANEA DE OLIVEIRA VIANA" 
+ cpf:  "02262588317" 
+ valor:  2601.87 
+ 185: Object   
+ matricula:  "12427" 
+ nome:  "ELISANGELA ROSINEI FONTES" 
+ cpf:  "27010450889" 
+ valor:  1849.12 
+ 186: Object   
+ matricula:  "11736" 
+ nome:  "SILVIA REGINA PINHO DE CARVALHO" 
+ cpf:  "08465549842" 
+ valor:  4930.33 
+ 187: Object   
+ matricula:  "11958" 
+ nome:  "MARIANA TATSUE NISHI DE MORAIS" 
+ cpf:  "39309139846" 
+ valor:  2601.87 
+ 188: Object   
+ matricula:  "11999" 
+ nome:  "SANDRA IZABEL FERREIRA CUCHINIERK" 
+ cpf:  "74683128691" 
+ valor:  2601.87 
+ 189: Object   
+ matricula:  "131723" 
+ nome:  "ELZA FERREIRA DE BRITO" 
+ cpf:  "08420063894" 
+ valor:  1078.65 
+ 190: Object   
+ matricula:  "12558" 
+ nome:  "FRANCIANE APARECIDA SANTOS DE SOUZA MUNIZ" 
+ cpf:  "34692515848" 
+ valor:  2601.87 
+ 191: Object   
+ matricula:  "9259" 
+ nome:  "ROSIMAR RIBEIRO DINIZ" 
+ cpf:  "30508808804" 
+ valor:  5230.58 
+ 192: Object   
+ matricula:  "12418" 
+ nome:  "SIMONE JESUS SILVA RAVOS" 
+ cpf:  "35107361846" 
+ valor:  1951.4 
+ 193: Object   
+ matricula:  "8326" 
+ nome:  "MARCELA APARECIDA MATIAS PEREIRA SILVA" 
+ cpf:  "32175494810" 
+ valor:  4760.88 
+ 194: Object   
+ matricula:  "7098" 
+ nome:  "ELIETE MARIA DOS SANTOS" 
+ cpf:  "03533567869" 
+ valor:  4231.89 
+ 195: Object   
+ matricula:  "11730" 
+ nome:  "LAURA MARIA DUARTE PEINADO" 
+ cpf:  "39789026803" 
+ valor:  2385.05 
+ 196: Object   
+ matricula:  "571" 
+ nome:  "ELENICE DORATIOTTO BARTOLOMEI" 
+ cpf:  "12833457812" 
+ valor:  2168.02 
+ 197: Object   
+ matricula:  "12323" 
+ nome:  "DOUGLAS HENRIQUE DOS SANTOS PESSOA" 
+ cpf:  "46479409850" 
+ valor:  2601.87 
+ 198: Object   
+ matricula:  "618" 
+ nome:  "TEREZINHA DE JESUS ARANTES BARBOSA" 
+ cpf:  "17796958889" 
+ valor:  2601.63 
+ numeroEvento:  "340" 
+ descricaoEvento:  "13º - SALARIO BASE" 
+ tipoEvento:  "PROVENTO" 
+ 392: Object   
+ numeroOrganograma:  "11802004" 
+ descricaoOrganograma:  "Fundeb Especial" 
+ descricaoVinculoEmpregaticio:  "Celetista" 
+ provisaoBaixada:  false 
+ valor:  "3000.00" 
+ funcionarios: Array [1]  
+ 0: Object   
+ matricula:  "9317" 
+ nome:  "LETICIA COELHO RUIZ" 
+ cpf:  "21834515807" 
+ valor:  3000 
+ numeroEvento:  "2017" 
+ descricaoEvento:  "13º - GRATIFICACAO CHEFE DIVISAO" 
+ tipoEvento:  "PROVENTO" 
